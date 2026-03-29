@@ -1,9 +1,8 @@
 # 🧠 Sentiment AI — ML Dashboard
 
 A complete, production-quality ML dashboard for sentiment analysis on IMDB movie reviews.
-**All visualizations use real model training results** — no mock data.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sentiment-dashboard-new.vercel.app/)
+
 
 ## 📐 Architecture
 
