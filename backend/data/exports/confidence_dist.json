@@ -1,0 +1,410 @@
+{
+  "Naive Bayes": [
+    {
+      "bucket": "0.50-0.53",
+      "correct": 152,
+      "wrong": 145
+    },
+    {
+      "bucket": "0.53-0.55",
+      "correct": 184,
+      "wrong": 126
+    },
+    {
+      "bucket": "0.55-0.57",
+      "correct": 167,
+      "wrong": 110
+    },
+    {
+      "bucket": "0.57-0.60",
+      "correct": 194,
+      "wrong": 93
+    },
+    {
+      "bucket": "0.60-0.62",
+      "correct": 235,
+      "wrong": 99
+    },
+    {
+      "bucket": "0.62-0.65",
+      "correct": 218,
+      "wrong": 87
+    },
+    {
+      "bucket": "0.65-0.68",
+      "correct": 239,
+      "wrong": 102
+    },
+    {
+      "bucket": "0.68-0.70",
+      "correct": 282,
+      "wrong": 66
+    },
+    {
+      "bucket": "0.70-0.72",
+      "correct": 315,
+      "wrong": 64
+    },
+    {
+      "bucket": "0.72-0.75",
+      "correct": 336,
+      "wrong": 66
+    },
+    {
+      "bucket": "0.75-0.78",
+      "correct": 344,
+      "wrong": 56
+    },
+    {
+      "bucket": "0.78-0.80",
+      "correct": 389,
+      "wrong": 50
+    },
+    {
+      "bucket": "0.80-0.82",
+      "correct": 430,
+      "wrong": 44
+    },
+    {
+      "bucket": "0.82-0.85",
+      "correct": 521,
+      "wrong": 36
+    },
+    {
+      "bucket": "0.85-0.88",
+      "correct": 552,
+      "wrong": 25
+    },
+    {
+      "bucket": "0.88-0.90",
+      "correct": 587,
+      "wrong": 26
+    },
+    {
+      "bucket": "0.90-0.93",
+      "correct": 726,
+      "wrong": 18
+    },
+    {
+      "bucket": "0.93-0.95",
+      "correct": 840,
+      "wrong": 13
+    },
+    {
+      "bucket": "0.95-0.98",
+      "correct": 1022,
+      "wrong": 12
+    },
+    {
+      "bucket": "0.98-1.00",
+      "correct": 1028,
+      "wrong": 1
+    }
+  ],
+  "Logistic Regression": [
+    {
+      "bucket": "0.50-0.53",
+      "correct": 72,
+      "wrong": 77
+    },
+    {
+      "bucket": "0.53-0.55",
+      "correct": 86,
+      "wrong": 83
+    },
+    {
+      "bucket": "0.55-0.57",
+      "correct": 75,
+      "wrong": 78
+    },
+    {
+      "bucket": "0.57-0.60",
+      "correct": 79,
+      "wrong": 64
+    },
+    {
+      "bucket": "0.60-0.62",
+      "correct": 121,
+      "wrong": 55
+    },
+    {
+      "bucket": "0.62-0.65",
+      "correct": 107,
+      "wrong": 59
+    },
+    {
+      "bucket": "0.65-0.68",
+      "correct": 113,
+      "wrong": 53
+    },
+    {
+      "bucket": "0.68-0.70",
+      "correct": 144,
+      "wrong": 43
+    },
+    {
+      "bucket": "0.70-0.72",
+      "correct": 136,
+      "wrong": 49
+    },
+    {
+      "bucket": "0.72-0.75",
+      "correct": 150,
+      "wrong": 50
+    },
+    {
+      "bucket": "0.75-0.78",
+      "correct": 194,
+      "wrong": 40
+    },
+    {
+      "bucket": "0.78-0.80",
+      "correct": 236,
+      "wrong": 53
+    },
+    {
+      "bucket": "0.80-0.82",
+      "correct": 263,
+      "wrong": 40
+    },
+    {
+      "bucket": "0.82-0.85",
+      "correct": 258,
+      "wrong": 43
+    },
+    {
+      "bucket": "0.85-0.88",
+      "correct": 344,
+      "wrong": 45
+    },
+    {
+      "bucket": "0.88-0.90",
+      "correct": 431,
+      "wrong": 37
+    },
+    {
+      "bucket": "0.90-0.93",
+      "correct": 566,
+      "wrong": 50
+    },
+    {
+      "bucket": "0.93-0.95",
+      "correct": 767,
+      "wrong": 31
+    },
+    {
+      "bucket": "0.95-0.98",
+      "correct": 1276,
+      "wrong": 28
+    },
+    {
+      "bucket": "0.98-1.00",
+      "correct": 3580,
+      "wrong": 24
+    }
+  ],
+  "RNN (LSTM)": [
+    {
+      "bucket": "0.50-0.53",
+      "correct": 45,
+      "wrong": 38
+    },
+    {
+      "bucket": "0.53-0.55",
+      "correct": 39,
+      "wrong": 34
+    },
+    {
+      "bucket": "0.55-0.57",
+      "correct": 55,
+      "wrong": 56
+    },
+    {
+      "bucket": "0.57-0.60",
+      "correct": 71,
+      "wrong": 47
+    },
+    {
+      "bucket": "0.60-0.62",
+      "correct": 79,
+      "wrong": 57
+    },
+    {
+      "bucket": "0.62-0.65",
+      "correct": 90,
+      "wrong": 49
+    },
+    {
+      "bucket": "0.65-0.68",
+      "correct": 109,
+      "wrong": 45
+    },
+    {
+      "bucket": "0.68-0.70",
+      "correct": 122,
+      "wrong": 45
+    },
+    {
+      "bucket": "0.70-0.72",
+      "correct": 95,
+      "wrong": 59
+    },
+    {
+      "bucket": "0.72-0.75",
+      "correct": 120,
+      "wrong": 52
+    },
+    {
+      "bucket": "0.75-0.78",
+      "correct": 146,
+      "wrong": 47
+    },
+    {
+      "bucket": "0.78-0.80",
+      "correct": 153,
+      "wrong": 50
+    },
+    {
+      "bucket": "0.80-0.82",
+      "correct": 193,
+      "wrong": 61
+    },
+    {
+      "bucket": "0.82-0.85",
+      "correct": 193,
+      "wrong": 41
+    },
+    {
+      "bucket": "0.85-0.88",
+      "correct": 238,
+      "wrong": 48
+    },
+    {
+      "bucket": "0.88-0.90",
+      "correct": 308,
+      "wrong": 68
+    },
+    {
+      "bucket": "0.90-0.93",
+      "correct": 482,
+      "wrong": 73
+    },
+    {
+      "bucket": "0.93-0.95",
+      "correct": 796,
+      "wrong": 77
+    },
+    {
+      "bucket": "0.95-0.98",
+      "correct": 1662,
+      "wrong": 101
+    },
+    {
+      "bucket": "0.98-1.00",
+      "correct": 3893,
+      "wrong": 63
+    }
+  ],
+  "DistilBERT": [
+    {
+      "bucket": "0.50-0.53",
+      "correct": 28,
+      "wrong": 16
+    },
+    {
+      "bucket": "0.53-0.55",
+      "correct": 15,
+      "wrong": 18
+    },
+    {
+      "bucket": "0.55-0.57",
+      "correct": 26,
+      "wrong": 23
+    },
+    {
+      "bucket": "0.57-0.60",
+      "correct": 24,
+      "wrong": 22
+    },
+    {
+      "bucket": "0.60-0.62",
+      "correct": 26,
+      "wrong": 21
+    },
+    {
+      "bucket": "0.62-0.65",
+      "correct": 30,
+      "wrong": 22
+    },
+    {
+      "bucket": "0.65-0.68",
+      "correct": 31,
+      "wrong": 13
+    },
+    {
+      "bucket": "0.68-0.70",
+      "correct": 28,
+      "wrong": 24
+    },
+    {
+      "bucket": "0.70-0.72",
+      "correct": 41,
+      "wrong": 23
+    },
+    {
+      "bucket": "0.72-0.75",
+      "correct": 24,
+      "wrong": 24
+    },
+    {
+      "bucket": "0.75-0.78",
+      "correct": 38,
+      "wrong": 21
+    },
+    {
+      "bucket": "0.78-0.80",
+      "correct": 37,
+      "wrong": 11
+    },
+    {
+      "bucket": "0.80-0.82",
+      "correct": 37,
+      "wrong": 38
+    },
+    {
+      "bucket": "0.82-0.85",
+      "correct": 55,
+      "wrong": 25
+    },
+    {
+      "bucket": "0.85-0.88",
+      "correct": 73,
+      "wrong": 33
+    },
+    {
+      "bucket": "0.88-0.90",
+      "correct": 75,
+      "wrong": 39
+    },
+    {
+      "bucket": "0.90-0.93",
+      "correct": 115,
+      "wrong": 26
+    },
+    {
+      "bucket": "0.93-0.95",
+      "correct": 140,
+      "wrong": 44
+    },
+    {
+      "bucket": "0.95-0.98",
+      "correct": 320,
+      "wrong": 64
+    },
+    {
+      "bucket": "0.98-1.00",
+      "correct": 3218,
+      "wrong": 112
+    }
+  ]
+}

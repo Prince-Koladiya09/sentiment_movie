@@ -1,0 +1,48 @@
+{
+  "rnn_lstm": [
+    {
+      "epoch": 1,
+      "train_acc": 0.8141,
+      "val_acc": 0.8827,
+      "train_loss": 0.4094,
+      "val_loss": 0.294
+    },
+    {
+      "epoch": 2,
+      "train_acc": 0.9268,
+      "val_acc": 0.8758,
+      "train_loss": 0.2052,
+      "val_loss": 0.3044
+    },
+    {
+      "epoch": 3,
+      "train_acc": 0.9534,
+      "val_acc": 0.8692,
+      "train_loss": 0.1422,
+      "val_loss": 0.3362
+    }
+  ],
+  "distilbert": [
+    {
+      "epoch": 1,
+      "train_acc": 0.8056,
+      "val_acc": 0.8682,
+      "train_loss": 0.4021,
+      "val_loss": 0.3097
+    },
+    {
+      "epoch": 2,
+      "train_acc": 0.903,
+      "val_acc": 0.8728,
+      "train_loss": 0.24,
+      "val_loss": 0.3142
+    },
+    {
+      "epoch": 3,
+      "train_acc": 0.9423,
+      "val_acc": 0.8762,
+      "train_loss": 0.1543,
+      "val_loss": 0.3321
+    }
+  ]
+}

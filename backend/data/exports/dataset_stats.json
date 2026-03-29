@@ -1,0 +1,882 @@
+{
+  "total_reviews": 50000,
+  "train_size": 40000,
+  "test_size": 10000,
+  "length_distribution": [
+    {
+      "bucket": "0-200",
+      "positive": 124,
+      "negative": 105
+    },
+    {
+      "bucket": "200-400",
+      "positive": 1745,
+      "negative": 1372
+    },
+    {
+      "bucket": "400-600",
+      "positive": 1815,
+      "negative": 1675
+    },
+    {
+      "bucket": "600-800",
+      "positive": 5612,
+      "negative": 5785
+    },
+    {
+      "bucket": "800-1000",
+      "positive": 3714,
+      "negative": 4025
+    },
+    {
+      "bucket": "1000-1200",
+      "positive": 2518,
+      "negative": 2688
+    },
+    {
+      "bucket": "1200-1400",
+      "positive": 1794,
+      "negative": 1911
+    },
+    {
+      "bucket": "1400-1600",
+      "positive": 1340,
+      "negative": 1386
+    },
+    {
+      "bucket": "1600-1800",
+      "positive": 1062,
+      "negative": 1122
+    },
+    {
+      "bucket": "1800-2000",
+      "positive": 894,
+      "negative": 893
+    },
+    {
+      "bucket": "2000-2200",
+      "positive": 4382,
+      "negative": 4038
+    }
+  ],
+  "length_stats": {
+    "overall": {
+      "mean": 1309.4,
+      "median": 970.0,
+      "std": 989.7
+    },
+    "positive": {
+      "mean": 1324.8,
+      "median": 968.0
+    },
+    "negative": {
+      "mean": 1294.1,
+      "median": 973.0
+    }
+  },
+  "sentiment_distribution": [
+    {
+      "name": "Positive",
+      "value": 25000,
+      "color": "#81b29a"
+    },
+    {
+      "name": "Negative",
+      "value": 25000,
+      "color": "#e05c8c"
+    }
+  ],
+  "top_positive_words": [
+    {
+      "word": "excellent",
+      "count": 12862.6
+    },
+    {
+      "word": "great",
+      "count": 10807.1
+    },
+    {
+      "word": "perfect",
+      "count": 10050.6
+    },
+    {
+      "word": "amazing",
+      "count": 9759.9
+    },
+    {
+      "word": "one best",
+      "count": 8617.9
+    },
+    {
+      "word": "hilarious",
+      "count": 8458.8
+    },
+    {
+      "word": "loved",
+      "count": 8356.7
+    },
+    {
+      "word": "wonderful",
+      "count": 8318.4
+    },
+    {
+      "word": "brilliant",
+      "count": 8163.0
+    },
+    {
+      "word": "enjoyed",
+      "count": 7977.4
+    },
+    {
+      "word": "favorite",
+      "count": 7872.1
+    },
+    {
+      "word": "today",
+      "count": 7814.9
+    },
+    {
+      "word": "superb",
+      "count": 7519.7
+    },
+    {
+      "word": "enjoyable",
+      "count": 7229.2
+    },
+    {
+      "word": "best",
+      "count": 6771.5
+    },
+    {
+      "word": "must see",
+      "count": 6740.0
+    },
+    {
+      "word": "definitely",
+      "count": 6694.7
+    },
+    {
+      "word": "fun",
+      "count": 6536.5
+    },
+    {
+      "word": "entertaining",
+      "count": 6331.4
+    },
+    {
+      "word": "well worth",
+      "count": 6311.6
+    }
+  ],
+  "top_negative_words": [
+    {
+      "word": "worst",
+      "count": 18032.9
+    },
+    {
+      "word": "awful",
+      "count": 15339.7
+    },
+    {
+      "word": "waste",
+      "count": 13035.6
+    },
+    {
+      "word": "poor",
+      "count": 12170.7
+    },
+    {
+      "word": "boring",
+      "count": 11568.0
+    },
+    {
+      "word": "terrible",
+      "count": 11431.7
+    },
+    {
+      "word": "bad",
+      "count": 10760.1
+    },
+    {
+      "word": "horrible",
+      "count": 9836.7
+    },
+    {
+      "word": "nothing",
+      "count": 9836.1
+    },
+    {
+      "word": "dull",
+      "count": 9583.9
+    },
+    {
+      "word": "worse",
+      "count": 9544.4
+    },
+    {
+      "word": "poorly",
+      "count": 9305.2
+    },
+    {
+      "word": "fails",
+      "count": 8833.9
+    },
+    {
+      "word": "lame",
+      "count": 8691.8
+    },
+    {
+      "word": "disappointing",
+      "count": 8664.9
+    },
+    {
+      "word": "disappointment",
+      "count": 8581.8
+    },
+    {
+      "word": "unfortunately",
+      "count": 8079.9
+    },
+    {
+      "word": "annoying",
+      "count": 7985.5
+    },
+    {
+      "word": "waste time",
+      "count": 7588.5
+    },
+    {
+      "word": "supposed",
+      "count": 7488.9
+    }
+  ],
+  "length_vs_accuracy": [
+    {
+      "bucket": "0-300",
+      "count": 340,
+      "accuracy": 0.9
+    },
+    {
+      "bucket": "300-600",
+      "count": 1123,
+      "accuracy": 0.894
+    },
+    {
+      "bucket": "600-1000",
+      "count": 3787,
+      "accuracy": 0.9018
+    },
+    {
+      "bucket": "1000-1500",
+      "count": 2025,
+      "accuracy": 0.8953
+    },
+    {
+      "bucket": "1500+",
+      "count": 2725,
+      "accuracy": 0.9028
+    }
+  ],
+  "sample_reviews": [
+    {
+      "id": 1,
+      "text": "Snuggle down in your favourite chair and switch on the play-station, as you toss this into the waste disposal unit. Spend a useful 90 min. living your favourite game. Disjointed - poorly filmed - non directed junk. It takes a bits from several other \"science fiction\" movies and badly attempts to joi",
+      "sentiment": 0,
+      "length": 650
+    },
+    {
+      "id": 2,
+      "text": "Guy Richie's third proper film (not counting the God-awful \"Swept Away\" is a complex action thriller concerned with gambling, gangsters and chess. Fans of Richie's previous efforts will probably hate Revolver as much as I did, with its twists and turns. Richie stalwart Jason Statham plays Jake, a ne",
+      "sentiment": 0,
+      "length": 1028
+    },
+    {
+      "id": 3,
+      "text": "This miracle of a movie is one of those films that has a lasting, long term effect on you. I've read a review or two from angry people who I guess are either republicans or child beaters, and their extremist remarks speak of the films power to confront people with their own darkest secrets. No such ",
+      "sentiment": 1,
+      "length": 658
+    },
+    {
+      "id": 4,
+      "text": "Oh my. How can they make movies of such beauty, but that are so terribly bad. I mean, even Uwe Boll doesn't make crap like this. There is not even a hint of a decent story, multi-layered characters, or attraction. It's just a random sequence of pointless chatter joined together to make a 'movie'. I ",
+      "sentiment": 0,
+      "length": 1172
+    },
+    {
+      "id": 5,
+      "text": "I really wanted to like this movie, because it is refreshingly different from the hordes of everyday horror movie clones, and I appreciate that the filmmakers are trying for something original. Unfortunately, the plot just didn't hold together and none of the characters were likable enough for me to",
+      "sentiment": 0,
+      "length": 1787
+    },
+    {
+      "id": 6,
+      "text": "Back (again) in Scotland, Lassie is (again) on trial for her life. Because the faithful dog sleeps on her master's grave, she must be put to death, according to law. Oddly, it is also explained that Lassie had no \"legal\" owner, which is, apparently, also against an old Scottish law. If, after three ",
+      "sentiment": 0,
+      "length": 1134
+    },
+    {
+      "id": 7,
+      "text": "I actually prefer Robin Williams in his more serious roles (e.g. Good Will Hunting, The Fisher King, The World According to Garp). These are my favorite Robin Williams movies. But Seize the Day, although well-acted, is one of the worst movies I've ever seen and certainly the worst Robin Williams mov",
+      "sentiment": 0,
+      "length": 789
+    },
+    {
+      "id": 8,
+      "text": "This is a very famous Ninja movie but it isn't a nice movie. If you want to see some ninjas and some figures, want to know some things about Ninjas see this movie. This movie only for ninja fans and who wants to make nostalgia.<br /><br />First 20 minutes and last 20 minutes of the movie are best. Y",
+      "sentiment": 0,
+      "length": 1083
+    },
+    {
+      "id": 9,
+      "text": "I watched all three segments and am so disappointed in the story line. Zahn spends so much time mimicking Duvall he does nothing else in the show. And Tommy Lee Jones would never be so weak as a young man, unlikeable yes but weak never. We never see how or why they go to back to Lonesome Dove...whic",
+      "sentiment": 0,
+      "length": 695
+    },
+    {
+      "id": 10,
+      "text": "I love Umberto Lenzi's cop movies -- ROME ARMED TO THE TEETH is my favorite -- and his DESERT COMMANDOS pretty much legitimized the Italian Euro War phenomenon by managing to actually be a pretty good movie. Give him guns, machines, some guys to run around talking tough and it's hard for him to miss",
+      "sentiment": 0,
+      "length": 3747
+    },
+    {
+      "id": 11,
+      "text": "Another try, another miss. France may be doomed for not being able to produce a good horror movie. I mean... the least they could do was to shoot the movie in the forest of Broc\u00e9liande, but even the forest is fake ! It was shot near Paris ! The subject is useless, the actors are really insignificant",
+      "sentiment": 0,
+      "length": 436
+    },
+    {
+      "id": 12,
+      "text": "First of all, I'd like to say I'm just an amateur in commenting movies and that English is not my native language, but that I felt a strong feeling compelling me to write about such movie; possibly as a way to thank and congratulate C. Jay Cox, the cast and the crew for such a brilliant production.<",
+      "sentiment": 1,
+      "length": 1101
+    },
+    {
+      "id": 13,
+      "text": "I must admit, when I first began watching this film I had no clue what was going on. So the beginning was a bit confusing for me. However, that did not diminish my enjoyment of the movie. The characters reveal themselves to be more complex than they may first appear, and that is what makes this a me",
+      "sentiment": 1,
+      "length": 610
+    },
+    {
+      "id": 14,
+      "text": "Unlike Terms of Endearment and Steel Magnolia's, I left the movie theater feeling VERY disappointed. I started to get into the characters and their complex mother/daughter and father/daughter relationships at the beginning. I even cried. But I had no sympathy for the characters with the ending. The ",
+      "sentiment": 0,
+      "length": 457
+    },
+    {
+      "id": 15,
+      "text": "When a movie's claim to fame is that Martin Sheen's younger, less known brother stars in it, you know it's not gonna' be a real good one. \"Soultaker\" is a low budget, silly film about a group of 20-something year olds being pursued by an angel of death. It's a stupid movie, but it is pretty entertai",
+      "sentiment": 0,
+      "length": 1041
+    },
+    {
+      "id": 16,
+      "text": "I cannot understand why this 1971 Hollywood production is currently only available through an Australian video company,but such is the unfortunate obscurity of this Peter Sellers classic(Leonard Maltin's Movie Guide continues to grant it the same BOMB review they gave it in the 1970's).With so many ",
+      "sentiment": 1,
+      "length": 1950
+    },
+    {
+      "id": 17,
+      "text": "\"The Violent Men\" marked the finest collaboration of Rudolph Mat\u00e9 with Glenn Ford in an intensely satisfying drama of rugged primitive justice\u0085 <br /><br />Ford is John Parrish, a former Cavalry captain who is itching to get married and start a new life\u0085 His fianc\u00e9e Caroline Vail (May Wynn) is despe",
+      "sentiment": 1,
+      "length": 2620
+    },
+    {
+      "id": 18,
+      "text": "Everyone knows about this ''Zero Day'' event. What I think this movie did that Elephant did not is that they made us see how these guys were. They showed their life for about a year. Throughout the movie we get to like them, to laugh with them even though we totally know what they're gonna do. And T",
+      "sentiment": 1,
+      "length": 1180
+    },
+    {
+      "id": 19,
+      "text": "i wrote an essay in 1981, the year i graduated high school called the \"last American virgin.\" i also had a friend named nancy who was the prostitute in this film. apparently her daughter got a hold of my essay one night when she slept over my house. a year later i wake up one morning and see the adv",
+      "sentiment": 0,
+      "length": 1178
+    },
+    {
+      "id": 20,
+      "text": "Saw this in the theater in '86 and fell out of my chair laughing more than once. \"Beirut\"...\"What do you know about Beirut?\"...\"Beirut...he's the best damn baseball that ever lived.\"<br /><br />You know how it's going to end but it has a great time getting there. The training scenes are very funny b",
+      "sentiment": 1,
+      "length": 610
+    },
+    {
+      "id": 21,
+      "text": "This was an excellent film. I don't understand why so many people don't like it. There was so much in it to connect with, so many beautiful images, and so much compassion in the things that weren't said. I was thoroughly entertained, and was left with a feeling of joyous exuberance, just as I am whe",
+      "sentiment": 1,
+      "length": 838
+    },
+    {
+      "id": 22,
+      "text": "SPOILER NOTHING BUT SPOILER<br /><br />I have to add my name to the list of folks who feel that the other viewers just don't get it. But no one has even mentioned the \"s\" word so far as I have seen.<br /><br />While I agree that the kid died I think we can be more specific: he committed suicide. He ",
+      "sentiment": 1,
+      "length": 792
+    },
+    {
+      "id": 23,
+      "text": "A low budget may be an excuse for poor acting talent and pathetic looking fake gore. However, it is not an excuse for poor writing. It is a talent to be able to write dialog without making it sound forced and mechanical. The dialog in this movie was on par with most instructional videos shown to fas",
+      "sentiment": 0,
+      "length": 1017
+    },
+    {
+      "id": 24,
+      "text": "Alright, how someone can actually think this movie is awesome, is so beyond me... I can't even comprehend how someone can find this movie remotely funny, the only character it has going for it, is the evil super nerd game designer, and that gets old after a while. This movie is so predictable, the p",
+      "sentiment": 0,
+      "length": 2272
+    },
+    {
+      "id": 25,
+      "text": "In 1996's \"101 Dalmatians,\" Cruella De Vil was arrested by the London Metropolitain Police (God bless them) for attempting to steal and murder 101 puppies - dalmatians. All covered in mud and hay, she spent the next 4 years in the \"tin can.\" Now, 4 years later, she, unfortunately, was released from ",
+      "sentiment": 1,
+      "length": 1145
+    },
+    {
+      "id": 26,
+      "text": "Frownland is like one of those intensely embarrassing situations where you end up laughing out loud at exactly the wrong time; and just at the moment you realize you shouldn't be laughing, you've already reached the pinnacle of voice resoundness; and as you look around you at the ghostly white faces",
+      "sentiment": 1,
+      "length": 1504
+    },
+    {
+      "id": 27,
+      "text": "I contend that whoever is ultimately responsible for creating/approving the trailer for this movie has completely blundered. NO ONE I know wanted to see this movie based on the previews, and EVERYONE who actually saw it (that I know) absolutely loved it... The advertising campaign is disgrace/disast",
+      "sentiment": 1,
+      "length": 1165
+    },
+    {
+      "id": 28,
+      "text": "This is a pleasant film, even if the premise is silly. It was sort of a guilty pleasure to watch. Meg Ryan seems to be able to pull off roles in this kind of film (another example is Joe vs. the Volcano). That's what makes her a star, in part. Walter Matthau, of course, had that ability, too, and he",
+      "sentiment": 1,
+      "length": 536
+    },
+    {
+      "id": 29,
+      "text": "This movie is bad. If you are thinking about watching it, there is only one decent scene in the movie, and it lasts about 5 seconds (Amanda Carraway's topless scene). The rest of the movie is horrible. I think high school plays probably have better acting. The plot makes no sense at all. The set was",
+      "sentiment": 0,
+      "length": 1301
+    },
+    {
+      "id": 30,
+      "text": "why oh why did i ever waste my time watching this film? it was given to me on video by a friend and i thought i'll watch it, it can't be that bad surely. firstly the acting is simply appalling and we're supposed to believe this is real? secondly this film is blatantly trying to copy the Blair witch ",
+      "sentiment": 0,
+      "length": 706
+    },
+    {
+      "id": 31,
+      "text": "Meh, Sums it all up for me really. Boring story, bland dialogue, dull action scenes (HOW do you make something like a fight or a shootout boring? Do you actually have to TRY to do that?), no real characters etc. Just dull. Snipes is a gifted actor and physical performer but none of this has come to ",
+      "sentiment": 0,
+      "length": 1677
+    },
+    {
+      "id": 32,
+      "text": "This movie is simply rubbish. I have to say I am an expert of rubbish movies. I reserve the \"1\" rating for movies that are rubbish but funny, but this film is just tedious and certainly not crappy in a funny way but crappy in a crappy way. It gets a \"2\" so those of you out there can distinguish betw",
+      "sentiment": 0,
+      "length": 785
+    },
+    {
+      "id": 33,
+      "text": "While Hollywood got sort of stagnant during the few years after WWII, England developed a very prolific film industry. In \"The Man in the White Suit\", inventor Sidney Stratton (Alec Guinness) creates a suit that never gets dirty. Unfortunately, this means that certain other businesses are now likely",
+      "sentiment": 1,
+      "length": 652
+    },
+    {
+      "id": 34,
+      "text": "Cops Logan Alexander and Debbie Rochon escort five black juvenile delinquents cross country and end up stranded out in the sticks when their van breaks down. After a deadly run-in with a racist, white trash bitch with a shotgun (played by the director), the survivors take refuge in the house of a bl",
+      "sentiment": 0,
+      "length": 1211
+    },
+    {
+      "id": 35,
+      "text": "Beautiful to watch, but what would be the first thing you would do the moment YOU discovered Atlantis? Explore it! Here was a golden opportunity to take viewers someplace special. Instead, Disney reverted to the same old formula story telling.",
+      "sentiment": 1,
+      "length": 243
+    },
+    {
+      "id": 36,
+      "text": "Frank Falenczyk: It isn't that I'm sorry I killed them; it's that I'm sorry I killed them badly.<br /><br />Wow! Talk about a swing and a miss. You have a great cast and a great plot with endless possibilties...how do you f_ck that up?! Well, apparently John Dahl has found a way. With an atrocious s",
+      "sentiment": 0,
+      "length": 880
+    },
+    {
+      "id": 37,
+      "text": "I\u00b4m from Germany and I love the mvovies. I go 200 times a year. Tonight I saw \"Pecker\", it was a wonderful evening. Thank you, Mr. Waters. Everybody who has a chance to see the movie, go!!!",
+      "sentiment": 1,
+      "length": 189
+    },
+    {
+      "id": 38,
+      "text": "being a fan of Bela Lugosi,Boris Karloff,and Lon Chaney Jr i had to see this.what tripe the only thing good about this is the clips of Lugosi,Karloff and Chaney Jr.along with all the vintage clips,that do not gel with the new black and white footage.not even close to Steve martins dead men don't wea",
+      "sentiment": 0,
+      "length": 872
+    },
+    {
+      "id": 39,
+      "text": "All Dogs Go to Heaven is, in my opinion, the best animated film ever made. I'm not really a big fan of animated films, but there's something about this one that makes it better than any other animated film I've seen. The music is wonderful as is the performances of Burt Reynolds, Dom Deluise, and es",
+      "sentiment": 1,
+      "length": 488
+    },
+    {
+      "id": 40,
+      "text": "(BIG SPOILERS) I've seen one other Takashi Miike film, and that was the very disturbing and brutal 'Audition', which was an examination of the Japanese ideals of femininity! In 'Visitor Q'- which I think means 'Visitor Question'- he examines, in a very disturbingly gross way, the family unit. Miike'",
+      "sentiment": 0,
+      "length": 2942
+    },
+    {
+      "id": 41,
+      "text": "\"The sweet is never as sweet without the sour.\" This quote was essentially the theme for the movie in my opinion. Tom Cruise plays a young man who was handed everything in his life. He takes things for granted and it comes around full swing in this great movie with a superb twist. This film will kee",
+      "sentiment": 1,
+      "length": 837
+    },
+    {
+      "id": 42,
+      "text": "Upon viewing Tobe Hooper's gem, Crocodile, in 2000, I developed a great interest in the college/crocodile niche of the exploitation/monster genre. I look forward to a wayward producer to follow up with several sequels to these delightful bonbons of camp goodness. If only Ed Wood could bring his subt",
+      "sentiment": 0,
+      "length": 1614
+    },
+    {
+      "id": 43,
+      "text": "I can barely find the words to express how utterly utterly awful this film is. I was sold on the promise of action, with Segal and stealth aircraft, which normally make for an entertaining action movie. I can honestly say I'd rather gouge my eyes out with a cocktail stick than have to see this film ",
+      "sentiment": 0,
+      "length": 969
+    },
+    {
+      "id": 44,
+      "text": "First, let's call this movie what it is:<br /><br />1. It's a feel-good movie with a message.<br /><br />2. The acting is just okay, dialog slightly better, production value pretty good.<br /><br />3. Rugby scenes...just barely passable.<br /><br />But here's the trick: this isn't something Hollywoo",
+      "sentiment": 1,
+      "length": 3643
+    },
+    {
+      "id": 45,
+      "text": "A cast of 1980's TV movie and TV series guest stars (Misty Rowe, Pamela Hemsley,Clevon Little, Seymour Cassel among several others)in the story of a photographer who has dreams about killing his models. Of course the models and other people start turning up dead causing all sorts of complications.<b",
+      "sentiment": 0,
+      "length": 791
+    },
+    {
+      "id": 46,
+      "text": "I went to Crooked Earth to see a piece of New Zealand. What I found was a badly scripted and badly acted echo of the people I know.<br /><br />Great moments between characters \u0096 including many of Temuera Morrison and Lawrences Makoares scenes together \u0096 were often ruined by long and wordy monologues",
+      "sentiment": 0,
+      "length": 2053
+    },
+    {
+      "id": 47,
+      "text": "This film shows a serious side to the often thought of as gore-fest works of fulci. Not a lot of blood and guts here , but a fine tale about murder and the lives affected by it.<br /><br />A real find, considering it was made in 1972 and will soon celebrate its 30th anniversary.<br /><br />Check thi",
+      "sentiment": 1,
+      "length": 359
+    },
+    {
+      "id": 48,
+      "text": "I like this movie above all others. It is \"multi-layered\"; there is so much to see and appreciate. Every viewing brings a new appreciation of the story-line, the plot and the characters. Faultlessly acted and extremely enjoyable if you take the time to watch it and appreciate it. I love the interact",
+      "sentiment": 1,
+      "length": 848
+    },
+    {
+      "id": 49,
+      "text": "Alright, we start in the office of a shrink, and apparently not a very good one. The main hero from the first Jack Frost is in the shrinks office blurting out random rhymes about Jack Frost. Gee, alright my brother is yelling ''Turn it off!''. Anyway, back to the crappy movie.<br /><br />The shrink ",
+      "sentiment": 0,
+      "length": 1508
+    },
+    {
+      "id": 50,
+      "text": "Steve Carell plays Dan Burns, newspaper agony uncle and dedicated single father to three girls. At a large family homecoming Dan meets his perfect woman, only to find out that she is in a relationship with his brother.<br /><br />What's a man to do?<br /><br />I rather liked \"Dan In Real Life\", but ",
+      "sentiment": 1,
+      "length": 1359
+    },
+    {
+      "id": 51,
+      "text": "The author sets out on a \"journey of discovery\" of his \"roots\" in the southern tobacco industry because he believes that the (completely and deservedly forgotten) movie \"Bright Leaf\" is about an ancestor of his. Its not, and he in fact discovers nothing of even mild interest in this absolutely silly",
+      "sentiment": 0,
+      "length": 691
+    },
+    {
+      "id": 52,
+      "text": "This movie is about a young couple running away to start a new life in LA, who end up being stalked by a psycho at a deserted rest stop. Actually, it's really just about the girl (Nicole), since her boyfriend literally disappears within a few minutes. The movie gets going extremely fast, and early o",
+      "sentiment": 0,
+      "length": 5714
+    },
+    {
+      "id": 53,
+      "text": "This is still the benchmark to judge all Golden Age whodunnits by, and taking into account the limited technology and dubious ethical standards of the authorities (on screen) bears up well against all generations of similar attempts since on film and TV. Fast and furious with plenty of Warner Bros w",
+      "sentiment": 1,
+      "length": 1785
+    },
+    {
+      "id": 54,
+      "text": "Leos Carax has made 3 great movies: Boys Meet Girls, Mauvais Sang, Les Amants du Pont Neuf. In fact those films were not that great but it has the violence of youth, the beauty of juvenile wilderness. Carax in these three movies was well aware of what cinema was, but he tried to make his own vision ",
+      "sentiment": 1,
+      "length": 927
+    },
+    {
+      "id": 55,
+      "text": "Also known as \"Stairway to Heaven\" in the US. During WWII British Peter Carter's (David Niven) plane is shot down in combat but he survives. He meets and falls in love with lovely June (Kim Hunter). But it seems a mistake was made in Heaven--he should have died! A French spirit comes to get him but ",
+      "sentiment": 1,
+      "length": 1270
+    },
+    {
+      "id": 56,
+      "text": "Oh dear. While Chevy Chase and the gang at SNL set new highs with the sketch show format this fails miserably at every level. Fortunately Chevy is barely in this at all and can't be blamed for this utter tripe. It seriously is very, very bad. While meant to be a political comment on USA at the time ",
+      "sentiment": 0,
+      "length": 651
+    },
+    {
+      "id": 57,
+      "text": "What can you say about the film White Fire. Amazing? Fantastic? Disturbing? Hilarious? These words are not big enough to describe the event which is White Fire. From wobbly, garbled beginning to profound end, this movie will entertain throughout.<br /><br />Our movie begins in the woods of a country",
+      "sentiment": 1,
+      "length": 2707
+    },
+    {
+      "id": 58,
+      "text": "There are just so many things wrong with this movie.<br /><br />To begin with, the first twenty minutes of the film could have been compressed into just five or maybe ten. The overall movie is (mercifully) short already, but this could have been made up for by giving a little more attention to the M",
+      "sentiment": 0,
+      "length": 2036
+    },
+    {
+      "id": 59,
+      "text": "COC had its moments. I enjoyed the action sequences, but I despised the screenplay and plot. I hate this film so much, I'll just write about the dumbest part. First of all, the plot would never happen. Second, the bleakness of the Chinese President was uncalled for. That would never happen. Finally,",
+      "sentiment": 0,
+      "length": 522
+    },
+    {
+      "id": 60,
+      "text": "It didn't feel like a movie, and was thankfully short (under 90minutes), it felt more like a commercial of possibilties in computer graphics: Most of the special effects are great, to be sure. But that cerainly don't a great or even a good movie make. Not saying it's absolutely worthless viewing, si",
+      "sentiment": 0,
+      "length": 1006
+    },
+    {
+      "id": 61,
+      "text": "This is a very rare film and probably the least known from Shirley Temple as it isn't on any of her collections.The reason why is probably because it doesn't have a happy ending,unlike all her other films.Its also not a musical,although she does belt out one song called' The world owes me a living'.",
+      "sentiment": 1,
+      "length": 1373
+    },
+    {
+      "id": 62,
+      "text": "Mario's first foray into the world of 3-dimensions is incredible. Miyamoto's masterpiece was reason enough to buy a Nintendo 64 when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic that set the standard for 3D adventure/platform games.",
+      "sentiment": 1,
+      "length": 287
+    },
+    {
+      "id": 63,
+      "text": "This film is one of the best shorts I've ever seen - and as I make it a point to be at all the major film festivals, I've seen a lot, especially of what the industry considers \"the best.\" I'm not a fan of Monaghan. His acting generally tends to be overdone and uninteresting to me, his only decent pe",
+      "sentiment": 1,
+      "length": 2222
+    },
+    {
+      "id": 64,
+      "text": "A neat 'race against time' premise - A murdered John Doe is found to have pneumonic plague, so while the health authority and NOPD battle everybody and each other trying to find his waterfront contacts, the murderers think the heat is because the victim's infected cousin is holding out on them. <br ",
+      "sentiment": 1,
+      "length": 1814
+    },
+    {
+      "id": 65,
+      "text": "This is Christmas time! A nativity in terms of rebirth, or at least this is what can be hoped regarding the Italian cinema. It was something like 30-40 years that the Italian cinema didn't craft an art piece of this size. This is an absolute contemporary film that can be also regarded at the same le",
+      "sentiment": 1,
+      "length": 1279
+    },
+    {
+      "id": 66,
+      "text": "Mockumentaries are proliferating lately so much that the approach therefore needs an injection of fresh and creative material each time it's used to maintain its vitality. This film does not deliver anything but worn out retreads of similar stories, an aimless script, weak ad-libs, uninspired acting",
+      "sentiment": 0,
+      "length": 1604
+    },
+    {
+      "id": 67,
+      "text": "This is one military drama I like a lot! Tom Berenger playing military assassin Thomas Beckett. This Marine is no-nonsense, in your face, and no questions asked kind of person who gets the job done. There you have Billy Zane(\"The Phantom\" and others) who plays Richard Miller, a former SWAT form D.C.",
+      "sentiment": 1,
+      "length": 936
+    },
+    {
+      "id": 68,
+      "text": "From producer/writer/Golden Globe nominated director James L. Brooks (Terms of Endearment, As Good as It Gets) this is a really good satirical comedy film showing behind the scenes in the life of a news reporter/anchor/journalist or producer might be like. Basically Jane Craig (Oscar and Golden Glob",
+      "sentiment": 1,
+      "length": 1371
+    },
+    {
+      "id": 69,
+      "text": "Teenager Eddie spends his life being bullied and humiliated due to his obsession with heavy metal music. One day he finds out his hero Sammi Curr has died, supposedly burned by the establishment which wanted to put a stop to his music. But Eddie has his last record, never released, and when he plays",
+      "sentiment": 1,
+      "length": 729
+    },
+    {
+      "id": 70,
+      "text": "It's a testament to Gosha's incredible film-making prowess that he was able to complete both Hitokiri and his stunning masterpiece, Goyokin, in the same year, 1969. And it's a testament to how criminally underrated he remains for the general public (compared to media darlings like the great Akira Ku",
+      "sentiment": 1,
+      "length": 2887
+    },
+    {
+      "id": 71,
+      "text": "Watching \"The Fox and the Child\" was an intoxicating experience. The lush visuals, integrity of point of view, and utter beauty of the setting and characters left me in a swoon of pleasure.<br /><br />The plot is uncomplicated. Deceptively simple. Within the container of that simplicity a world unfo",
+      "sentiment": 1,
+      "length": 872
+    },
+    {
+      "id": 72,
+      "text": "It should be against the law not to experience this extremely funny stand up show with Eddie Murphy. I have never seen anything like it.<br /><br />Murphy goes on for almost 70 minutes about dicks, pussy, tits and insaults so many famous people including his own \"family\". Among the people who gets i",
+      "sentiment": 1,
+      "length": 975
+    },
+    {
+      "id": 73,
+      "text": "Ah the Outer Limits. I love that show. It was surpremely creepy, or down-right mysterious. I loved all the genres of the show, from horror, to thriller to mystery, whatever the genre, it was good. I guess I must have started watching way after it got canceled, when Sci-fi showed it as re-runs, or pl",
+      "sentiment": 1,
+      "length": 699
+    },
+    {
+      "id": 74,
+      "text": "METAMORPHOSIS I am working my way through the Chilling Classics 50 Movie Pack Collection and METAMORPHOSIS is the seventh movie in the set. Released in 1990, METAMORPHOSIS seems to be a remake of \"The Atom Age Vampire,\" which also featured a scientist striving for similar results. Set in modern time",
+      "sentiment": 0,
+      "length": 1270
+    },
+    {
+      "id": 75,
+      "text": "I recently rented this doc, having remembered hearing about it from IMDb.com and being intrigued by the premise. I knew very little about either of these bands, but I do remember hearing \"Not If You Were The Last Junkie On Earth\" by The Dandy Warhols ages ago and enjoying it. That being said, this i",
+      "sentiment": 1,
+      "length": 1613
+    },
+    {
+      "id": 76,
+      "text": "I won't claim to be a fan of Ralph Bakshi, because i am not. I have only watched 5 of his animated films so far: Coonskin, Wizards, Fritz the Cat and Lord of the Rings and finally \"Fire and Ice\". What i CAN claim, is that i found \"Fire and Ice\" to be the most enjoyable of the lot. It is a straightfo",
+      "sentiment": 1,
+      "length": 3389
+    },
+    {
+      "id": 77,
+      "text": "As their entire career was a pale impersonation of The Beatles, it is no surprise that, shortly after the great fiasco of the Beatles \"Magical Mystery Tour,\" the Monkees would follow up with their own insipid and creative morass of a movie, called \"Head.\" Both movies are not so much a true story wit",
+      "sentiment": 0,
+      "length": 1593
+    },
+    {
+      "id": 78,
+      "text": "I think this show was right on the money for me. I watched it over the plane but there were parts in the movie that made me control myself from tearing all over the place. <br /><br />The chemistry between Richard gere and Diane lane was very believable (fantastic acting on both parts)! I loved how ",
+      "sentiment": 1,
+      "length": 594
+    },
+    {
+      "id": 79,
+      "text": "This documentary was my first introduction to Peak Oil theory. A fascinating concept that has a lot of frightening consequences if it turns out to be correct. I had absolutely no idea that the effects of oil depletion would come so soon, it literally took my breath away. This movie will probably ope",
+      "sentiment": 1,
+      "length": 1096
+    },
+    {
+      "id": 80,
+      "text": "This movie is a farce! Names are grossly mispronounced and the plot is twisted and gnarled into something unrecognizable by any literature enthusiast. And they have the gall to give Beowulf a ridiculous cannon/crossbow weapon. Beowulf doesn't need a weapon like that! In the poem, he rips off Grendel",
+      "sentiment": 0,
+      "length": 695
+    },
+    {
+      "id": 81,
+      "text": "...scratch it. Just as African's created rhythms with the jawbone of an ass and Virgin Islanders welded oil drums into ear pleasing steel bands, so did urban DJ's itch to scratch in the pursuit of new methods of creative expression. \"Scratch\" is a wholly unnarrated documentary which will take you to",
+      "sentiment": 1,
+      "length": 727
+    },
+    {
+      "id": 82,
+      "text": "\"Embarassing\" is the only word to describe this laughingly awful production. From the blatant disregard of the source material (sure to infuriate anyone remotely familiar with mythology) to the predictably insufficient production value, this entire mini-series is a train wreck.<br /><br />The cast (",
+      "sentiment": 0,
+      "length": 961
+    },
+    {
+      "id": 83,
+      "text": "I remember seeing the trailer for this film and I absolutely knew I had to see this movie. It looked like something that would be right up my alley.<br /><br />\"The United States of Leland\" is a terrific movie. It is not one that will leave you with a nice, pleasant ending, but with a sad, empty fee",
+      "sentiment": 1,
+      "length": 951
+    },
+    {
+      "id": 84,
+      "text": "Hollywood movie industry is the laziest one in the entire world. It only needs a single hit to flood theaters with the same old crap re-invented over and over again. Take superheroes for example, for each X-Man and Spiderman, there are Daredevil, Elektra, Ghost Rider and Hulk. Japanese horror remake",
+      "sentiment": 0,
+      "length": 2041
+    },
+    {
+      "id": 85,
+      "text": "I just love Malle's documentaries. They are so effortless and simple but still so fascinating. I have no idea why this documentary works. It is about Glencoe, Minnesota. 5000 people live there and nothing happens, really. But still Malle manages to make it fascinating and interesting. His love for h",
+      "sentiment": 1,
+      "length": 1876
+    },
+    {
+      "id": 86,
+      "text": "This is definitely an appropriate update for the original, except that \"party on the left is now party on the right.\" Like the original, this movie rails against a federal government which oversteps its bounds with regards to personal liberty. It is a warning of how tenuous our political liberties a",
+      "sentiment": 1,
+      "length": 1173
+    },
+    {
+      "id": 87,
+      "text": "I'm glad Cage changed his name from Coppolla and got this part on his own. Light-hearted, no deep thought needed, but a cute piece about opposites attracting- though her parents are still hippies.... Captures the voice of the early 80's- the whine of the valley and the funk of the other side. One ca",
+      "sentiment": 1,
+      "length": 337
+    },
+    {
+      "id": 88,
+      "text": "What can I say? I couldn't sleep and I came across this movie on MTV. I started watching it with every intention of changing the channel if it started to get lame as so many anti-drug movies do but I got sucked into this movie and I couldn't stop watching. Nick Stahl did an amazing job with his char",
+      "sentiment": 1,
+      "length": 829
+    },
+    {
+      "id": 89,
+      "text": "With the current trend of gross out humor, this film is the granddaddy of them all. While some of the humor is dated, every skit will either shock, repulse, or make you laugh out loud. Most memorable is the sex games commentary and, of course, the VD commercial. It doesn't always work, but pays off ",
+      "sentiment": 1,
+      "length": 330
+    },
+    {
+      "id": 90,
+      "text": "This film is utterly amazing. From the performances of Huppert, Girardot, and Magimel, to Haneke's screenplay and direction there is not a single misstep. The film may put some people off with it's hard sexual subject matter and with it's slower pace, but it really is a masterful piece of cinema... ",
+      "sentiment": 1,
+      "length": 415
+    },
+    {
+      "id": 91,
+      "text": "(some spoilers) - as if you wouldn't know how it'll end<br /><br />My expectations for HOLLOW MAN were high. A very good commercial, a director like Paul Verhoeven and actors like Kevin Bacon and Elisabeth Shue, plus a very interesting theme - invisibility. Every premise for a great movie was accomp",
+      "sentiment": 0,
+      "length": 3268
+    },
+    {
+      "id": 92,
+      "text": "I was surprised at the low rating this film got from viewers. I saw it one late night on TV and it hit the spot - I actually think it was back in 1989 when it first appeared. Yet I remember it pretty well, with a nice twist or two, and an interesting ambiance on a windmill farm. Michael Pollard look",
+      "sentiment": 1,
+      "length": 734
+    },
+    {
+      "id": 93,
+      "text": "Predictable, hackneyed & poorly written. Foolishly I reasoned such a prominent cast would not be involved unless it had merit. I guess competition amongst actors is so intense these days (and will only get worse) that one cannot pick and choose much any more. Early on we were given an inkling who wa",
+      "sentiment": 0,
+      "length": 686
+    },
+    {
+      "id": 94,
+      "text": "What happened in the making of this movie so that it ended up as the total mess it is? Just one year after \"The Breakfast Club\", a brilliant movie with many of the same actors as in \"St. Elmo's Fire\" (who by the way looked and acted in the latter more like they were still the high school misfits fro",
+      "sentiment": 0,
+      "length": 3130
+    },
+    {
+      "id": 95,
+      "text": "Sigh\u0085the stupid government once again attempted to create an inexhaustible and indestructible soldier, and of course the experiments went terribly wrong, burdening us with a half man-half mutant who pukes an awful lot and squeaks like a little girl whenever he's upset. Lance Henriksen stars as the h",
+      "sentiment": 0,
+      "length": 1766
+    },
+    {
+      "id": 96,
+      "text": "STAR RATING: ***** Saturday Night **** Friday Night *** Friday Morning ** Sunday Night * Monday Morning <br /><br />Mr Bean (Rowan Atkinson) is in this world, but not of this world. His mind simply doesn't seem to comprehend things the way an average person would and his life is one long disaster be",
+      "sentiment": 1,
+      "length": 2062
+    },
+    {
+      "id": 97,
+      "text": "There are way too many subjects avoided in cinema and eating disorders is one of them. This film shows it as it is. It is not glamourised for the viewers to enjoy, it is shown with real truth which makes it all the more powerful. I've only seen it once and that was a few years ago but i can still re",
+      "sentiment": 1,
+      "length": 592
+    },
+    {
+      "id": 98,
+      "text": "George Sluizer's original version of The Vanishing aka The Man Who Wanted to Know offers one of European cinema's most quietly disturbing sociopaths and one of the most memorable finales of all time (shamelessly stolen by Tarantino for Kill Bill Volume Two), but it has plenty more to offer than that",
+      "sentiment": 0,
+      "length": 2913
+    },
+    {
+      "id": 99,
+      "text": "The Willies starts late one night as brother's Josh (Joshua Miller) & Kyle (Jason Horst) are camping outside with their cousin Michael (Sean Astin), they decide to pass the time by telling scary stories...<br /><br />First up is Michael with a story entitled 'Bad Apples' in which a young boy named D",
+      "sentiment": 0,
+      "length": 2874
+    },
+    {
+      "id": 100,
+      "text": "I didn't give this movie a perfect score in order to be honest in comparing to great classics like \"Citizen Kane\" and \"Seven Samaurai.\" However, this movie is so all-around wonderful, it's a real shame it scores so poorly for the general IMDb voter. However, the IMDb voter leans to the geeky, and \"P",
+      "sentiment": 1,
+      "length": 2172
+    }
+  ]
+}

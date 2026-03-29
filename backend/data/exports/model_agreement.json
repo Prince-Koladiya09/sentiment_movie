@@ -1,0 +1,130 @@
+{
+  "matrix": {
+    "Naive Bayes": {
+      "Naive Bayes": 1.0,
+      "Logistic Regression": 0.9037,
+      "RNN (LSTM)": 0.8972,
+      "DistilBERT": 0.8462
+    },
+    "Logistic Regression": {
+      "Naive Bayes": 0.9037,
+      "Logistic Regression": 1.0,
+      "RNN (LSTM)": 0.9353,
+      "DistilBERT": 0.8602
+    },
+    "RNN (LSTM)": {
+      "Naive Bayes": 0.8972,
+      "Logistic Regression": 0.9353,
+      "RNN (LSTM)": 1.0,
+      "DistilBERT": 0.8472
+    },
+    "DistilBERT": {
+      "Naive Bayes": 0.8462,
+      "Logistic Regression": 0.8602,
+      "RNN (LSTM)": 0.8472,
+      "DistilBERT": 1.0
+    }
+  },
+  "all_wrong": [
+    {
+      "idx": 5,
+      "review": "Back (again) in Scotland, Lassie is (again) on trial for her life. Because the faithful dog sleeps on her master's grave, she must be put to death, according to law. Oddly, it is also explained that Lassie had no \"legal\" owner, which is, apparently, also against an old Scottish law. If, after three ",
+      "true_label": "negative"
+    },
+    {
+      "idx": 25,
+      "review": "Frownland is like one of those intensely embarrassing situations where you end up laughing out loud at exactly the wrong time; and just at the moment you realize you shouldn't be laughing, you've already reached the pinnacle of voice resoundness; and as you look around you at the ghostly white faces",
+      "true_label": "positive"
+    },
+    {
+      "idx": 104,
+      "review": "Robot Jox tries hard, but is fundamentally a series of fight scenes strung together -- robot against robot, man against man, man against woman. The premise had potential, but it seems the script wasn't really given the couple of more drafts it needed. Still, it was fairly good, for a science fiction",
+      "true_label": "positive"
+    },
+    {
+      "idx": 175,
+      "review": "To confess having fantasies about Brad Pitt is a pretty tough admission for an heterosexual to make. But what can I tell you? Maybe is that famous extra something that everybody talks about and makes a star a star. It crosses that barrier. It pulls you into unknown sensual and emotional territory. B",
+      "true_label": "negative"
+    },
+    {
+      "idx": 217,
+      "review": "I think I read this someplace: Joe Johnston (director of the film and also one of the guys who founded Industrial Light and Magic for work on the first Star Wars film) and one of his producers or something were racking their brains for a title for the movie, \"Rocket Boys\" (I guess) was lacking somet",
+      "true_label": "positive"
+    },
+    {
+      "idx": 219,
+      "review": "***SPOILERS*** ***SPOILERS*** From its very opening credits this fantastic movie sets the record straight: it's an instant classic. It doesn't take long to realize that this movie is big, bigger than `Kindergarten Cop' or `Police Academy 7.' The sheer greatness of it left me speechless as I walked o",
+      "true_label": "negative"
+    },
+    {
+      "idx": 270,
+      "review": "This film was made in Saskatchewan and Manitoba Parks and returned the world eye again to what little of the \"Wild Western Canada\" is left. When Archie began to write his stories for the papers; the thought of the day was to tame the wilderness and convert/absorb the First Nation Peoples.<br /><br /",
+      "true_label": "negative"
+    },
+    {
+      "idx": 316,
+      "review": "Stefan is an x-con that five years ago got married to Marie. Their marriage has been stable until Stefan past catch up with them and he's offered to do a courier job. Stefan's job is a heroin delivery from Germany to Sweden which should go easily.<br /><br />In Germany Stefan meet Elli, a girl from ",
+      "true_label": "negative"
+    },
+    {
+      "idx": 340,
+      "review": "A ham actor without a penny. Who better than Michael Caine to play such a character? He is totally and utterly hilarious but, as in most of Caine's performances, he goes for it for real. The film seems to be a showcase of Dylan Moran and he's splendiferous in his double act with Caine. This, however",
+      "true_label": "positive"
+    },
+    {
+      "idx": 430,
+      "review": "This movie is apparently intended for a young, evangelical Christian audience as a teaching tool. For that I give it a 7 out of 10 point vote. It's a decent movie to show a youth group, but I don't think it will be very well received beyond that. For any other audience, I'd rate it lots lower.<br />",
+      "true_label": "positive"
+    },
+    {
+      "idx": 445,
+      "review": "This movie is about a man who likes to blow himself up on gas containers.<br /><br />He also loves his mommy. So, to keep the money coming in, he takes his act to Broadway.<br /><br />SEE! CODY POWERS JARRETT BLOW HIMSELF UP ON HIS BIGGEST GAS CONTAINER YET! TONIGHT! 7.30PM! <br /><br />However, one",
+      "true_label": "negative"
+    },
+    {
+      "idx": 460,
+      "review": "I cannot understand the need to jump backwards and forwards to scene set, and pad out the plot. Showing that someone has a skill right before they use it, I believe, is offending our intelligence. It's starting to feel a little contrived, and as though they are making up for being so vague for the f",
+      "true_label": "positive"
+    },
+    {
+      "idx": 477,
+      "review": "First of all , you should watch this only if you don't mind the lack of subtitles , pornography , kinky sex and utter , horrifying and truly shocking depravity . I mentioned kinky sex , but to call sex in the second half of the movie \" kinky \" would be a great understatement . It's more like a punch",
+      "true_label": "positive"
+    },
+    {
+      "idx": 515,
+      "review": "Earth has been destroyed in a nuclear holocaust. Well, parts of the Earth, because somewhere in Italy, a band of purebred survivors--those without radioactive contamination--are holed up in a massive mansion surrounded by lush grounds, waiting for the next opportunity to go hunting for those with po",
+      "true_label": "negative"
+    },
+    {
+      "idx": 526,
+      "review": "An unusually straight-faced actioner played by a cast and filmed by a director who obviously took the material seriously. Imperfect, as is to be expected from a film clearly shot on a tight budget, but the drama is involving-- it's one of those films that when it gets repeated ad nauseum on Cinemax ",
+      "true_label": "positive"
+    },
+    {
+      "idx": 609,
+      "review": "Luchino Visconti, the artist with the sword. Courage should be the first word associated with his entire opus. Film. Theater. Music. Revolutions, artistic, cultural, personal. A legacy with powerful consequences and endless ramifications. He introduced the neorealism through the work of an American ",
+      "true_label": "negative"
+    },
+    {
+      "idx": 632,
+      "review": "I saw this film on its release, and have watched it 3 or 4 more times, including last week. I regret I have to be a voice of dissension with regard to Mr. Branagh's performance.<br /><br />This is really a glorious, sumptuous film, to say nothing of ambitious at over 4 hours long - beautifully shot ",
+      "true_label": "negative"
+    },
+    {
+      "idx": 671,
+      "review": "Adenoid Hynkel, a lowly soldier in World War One, rises in subsequent years to become the ruthless dictator of Toumania. He creates an aggressive, antisemitic war machine and cultivates a little toothbrush moustache. Sound like anyone you know?<br /><br />From the safety of Hollywood, Chaplin uses t",
+      "true_label": "negative"
+    },
+    {
+      "idx": 768,
+      "review": "All y'all hatin' on the fact you'd probably neva make the cut for \"Second String\" need to save it. If more guys out there took their sorry behinds to the gym for once...maybe y'all have a chance....well,...maybe. Take Shawn Woods' \"HOOK\" physique for a \"perfect\" example...and I stress the word \"perf",
+      "true_label": "positive"
+    },
+    {
+      "idx": 795,
+      "review": "The point of the vastly extended preparatory phase of this Star is Born story seems to be to make ultimate success all the more sublime. Summer Phoenix is very effective as an inarticulate young woman imprisoned within herself but never convincing as the stage actress of growing fame who both overco",
+      "true_label": "negative"
+    }
+  ]
+}

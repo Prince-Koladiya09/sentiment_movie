@@ -1,0 +1,494 @@
+{
+  "Naive Bayes": {
+    "positive": [
+      {
+        "word": "film",
+        "weight": -5.3703
+      },
+      {
+        "word": "movie",
+        "weight": -5.4097
+      },
+      {
+        "word": "one",
+        "weight": -5.9254
+      },
+      {
+        "word": "great",
+        "weight": -6.1362
+      },
+      {
+        "word": "like",
+        "weight": -6.2168
+      },
+      {
+        "word": "good",
+        "weight": -6.2285
+      },
+      {
+        "word": "story",
+        "weight": -6.2337
+      },
+      {
+        "word": "time",
+        "weight": -6.2716
+      },
+      {
+        "word": "character",
+        "weight": -6.3269
+      },
+      {
+        "word": "see",
+        "weight": -6.3354
+      },
+      {
+        "word": "well",
+        "weight": -6.409
+      },
+      {
+        "word": "show",
+        "weight": -6.4172
+      },
+      {
+        "word": "love",
+        "weight": -6.432
+      },
+      {
+        "word": "really",
+        "weight": -6.4566
+      },
+      {
+        "word": "also",
+        "weight": -6.4916
+      },
+      {
+        "word": "best",
+        "weight": -6.5234
+      },
+      {
+        "word": "life",
+        "weight": -6.5237
+      },
+      {
+        "word": "get",
+        "weight": -6.5322
+      },
+      {
+        "word": "make",
+        "weight": -6.5538
+      },
+      {
+        "word": "would",
+        "weight": -6.579
+      },
+      {
+        "word": "scene",
+        "weight": -6.5903
+      },
+      {
+        "word": "people",
+        "weight": -6.6284
+      },
+      {
+        "word": "first",
+        "weight": -6.6364
+      },
+      {
+        "word": "much",
+        "weight": -6.6635
+      },
+      {
+        "word": "way",
+        "weight": -6.6864
+      },
+      {
+        "word": "think",
+        "weight": -6.688
+      },
+      {
+        "word": "year",
+        "weight": -6.7112
+      },
+      {
+        "word": "many",
+        "weight": -6.7155
+      },
+      {
+        "word": "watch",
+        "weight": -6.7185
+      },
+      {
+        "word": "even",
+        "weight": -6.732
+      }
+    ],
+    "negative": [
+      {
+        "word": "movie",
+        "weight": -5.1844
+      },
+      {
+        "word": "film",
+        "weight": -5.4846
+      },
+      {
+        "word": "one",
+        "weight": -5.9636
+      },
+      {
+        "word": "like",
+        "weight": -5.9941
+      },
+      {
+        "word": "bad",
+        "weight": -6.0248
+      },
+      {
+        "word": "even",
+        "weight": -6.2138
+      },
+      {
+        "word": "good",
+        "weight": -6.2792
+      },
+      {
+        "word": "would",
+        "weight": -6.2831
+      },
+      {
+        "word": "character",
+        "weight": -6.3158
+      },
+      {
+        "word": "time",
+        "weight": -6.3229
+      },
+      {
+        "word": "really",
+        "weight": -6.3528
+      },
+      {
+        "word": "get",
+        "weight": -6.361
+      },
+      {
+        "word": "make",
+        "weight": -6.3829
+      },
+      {
+        "word": "dont",
+        "weight": -6.4368
+      },
+      {
+        "word": "scene",
+        "weight": -6.4544
+      },
+      {
+        "word": "story",
+        "weight": -6.5024
+      },
+      {
+        "word": "see",
+        "weight": -6.5046
+      },
+      {
+        "word": "could",
+        "weight": -6.5392
+      },
+      {
+        "word": "plot",
+        "weight": -6.54
+      },
+      {
+        "word": "acting",
+        "weight": -6.5439
+      },
+      {
+        "word": "much",
+        "weight": -6.5464
+      },
+      {
+        "word": "thing",
+        "weight": -6.5578
+      },
+      {
+        "word": "people",
+        "weight": -6.5602
+      },
+      {
+        "word": "made",
+        "weight": -6.6066
+      },
+      {
+        "word": "watch",
+        "weight": -6.6562
+      },
+      {
+        "word": "show",
+        "weight": -6.6845
+      },
+      {
+        "word": "actor",
+        "weight": -6.6986
+      },
+      {
+        "word": "worst",
+        "weight": -6.7105
+      },
+      {
+        "word": "think",
+        "weight": -6.7132
+      },
+      {
+        "word": "way",
+        "weight": -6.7302
+      }
+    ]
+  },
+  "Logistic Regression": {
+    "positive": [
+      {
+        "word": "excellent",
+        "weight": 12.8626
+      },
+      {
+        "word": "great",
+        "weight": 10.8071
+      },
+      {
+        "word": "perfect",
+        "weight": 10.0506
+      },
+      {
+        "word": "amazing",
+        "weight": 9.7599
+      },
+      {
+        "word": "one best",
+        "weight": 8.6179
+      },
+      {
+        "word": "hilarious",
+        "weight": 8.4588
+      },
+      {
+        "word": "loved",
+        "weight": 8.3567
+      },
+      {
+        "word": "wonderful",
+        "weight": 8.3184
+      },
+      {
+        "word": "brilliant",
+        "weight": 8.163
+      },
+      {
+        "word": "enjoyed",
+        "weight": 7.9774
+      },
+      {
+        "word": "favorite",
+        "weight": 7.8721
+      },
+      {
+        "word": "today",
+        "weight": 7.8149
+      },
+      {
+        "word": "superb",
+        "weight": 7.5197
+      },
+      {
+        "word": "enjoyable",
+        "weight": 7.2292
+      },
+      {
+        "word": "best",
+        "weight": 6.7715
+      },
+      {
+        "word": "must see",
+        "weight": 6.74
+      },
+      {
+        "word": "definitely",
+        "weight": 6.6947
+      },
+      {
+        "word": "fun",
+        "weight": 6.5365
+      },
+      {
+        "word": "entertaining",
+        "weight": 6.3314
+      },
+      {
+        "word": "well worth",
+        "weight": 6.3116
+      },
+      {
+        "word": "funniest",
+        "weight": 6.2469
+      },
+      {
+        "word": "beautifully",
+        "weight": 6.2419
+      },
+      {
+        "word": "wonderfully",
+        "weight": 6.2322
+      },
+      {
+        "word": "perfectly",
+        "weight": 6.1746
+      },
+      {
+        "word": "subtle",
+        "weight": 6.1581
+      },
+      {
+        "word": "refreshing",
+        "weight": 6.1545
+      },
+      {
+        "word": "gem",
+        "weight": 6.0959
+      },
+      {
+        "word": "fantastic",
+        "weight": 6.0679
+      },
+      {
+        "word": "awesome",
+        "weight": 5.9048
+      },
+      {
+        "word": "highly",
+        "weight": 5.8386
+      }
+    ],
+    "negative": [
+      {
+        "word": "worst",
+        "weight": -18.0329
+      },
+      {
+        "word": "awful",
+        "weight": -15.3397
+      },
+      {
+        "word": "waste",
+        "weight": -13.0356
+      },
+      {
+        "word": "poor",
+        "weight": -12.1707
+      },
+      {
+        "word": "boring",
+        "weight": -11.568
+      },
+      {
+        "word": "terrible",
+        "weight": -11.4317
+      },
+      {
+        "word": "bad",
+        "weight": -10.7601
+      },
+      {
+        "word": "horrible",
+        "weight": -9.8367
+      },
+      {
+        "word": "nothing",
+        "weight": -9.8361
+      },
+      {
+        "word": "dull",
+        "weight": -9.5839
+      },
+      {
+        "word": "worse",
+        "weight": -9.5444
+      },
+      {
+        "word": "poorly",
+        "weight": -9.3052
+      },
+      {
+        "word": "fails",
+        "weight": -8.8339
+      },
+      {
+        "word": "lame",
+        "weight": -8.6918
+      },
+      {
+        "word": "disappointing",
+        "weight": -8.6649
+      },
+      {
+        "word": "disappointment",
+        "weight": -8.5818
+      },
+      {
+        "word": "unfortunately",
+        "weight": -8.0799
+      },
+      {
+        "word": "annoying",
+        "weight": -7.9855
+      },
+      {
+        "word": "waste time",
+        "weight": -7.5885
+      },
+      {
+        "word": "supposed",
+        "weight": -7.4889
+      },
+      {
+        "word": "mess",
+        "weight": -7.4362
+      },
+      {
+        "word": "ridiculous",
+        "weight": -7.2677
+      },
+      {
+        "word": "avoid",
+        "weight": -7.1668
+      },
+      {
+        "word": "save",
+        "weight": -7.1233
+      },
+      {
+        "word": "worst movie",
+        "weight": -7.0758
+      },
+      {
+        "word": "laughable",
+        "weight": -7.0327
+      },
+      {
+        "word": "stupid",
+        "weight": -6.9909
+      },
+      {
+        "word": "mediocre",
+        "weight": -6.9151
+      },
+      {
+        "word": "weak",
+        "weight": -6.7955
+      },
+      {
+        "word": "sorry",
+        "weight": -6.7848
+      }
+    ]
+  }
+}

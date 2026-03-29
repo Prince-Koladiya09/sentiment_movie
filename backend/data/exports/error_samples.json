@@ -1,0 +1,2410 @@
+{
+  "Naive Bayes": [
+    {
+      "id": 7003,
+      "model": "Naive Bayes",
+      "review": "This low-budget erotic thriller that has some good points, but a lot more bad one. The plot revolves around a female lawyer trying to clear her lover who is accused of murdering his wife. Being a soft-core film, that entails her going undercover at a strip club and having sex with possible suspects. As plots go for this type of genre, not to bad. The script is okay, and the story makes enough sens",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9932,
+      "length": 2008,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3921,
+      "model": "Naive Bayes",
+      "review": "So Udo Kier earned like nine bucks and free food for this so that is a victory in and of itself. <br /><br />More importantly this movie tells a very interesting tale about a group of salvage guys coming across the broken down Demeter. I should warn you, i'm gunna bounce around through this review real quick so buckle up. First thing's first. Coolio plays a guy named 187. 187 likes drugs. 187 find",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9739,
+      "length": 3088,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1337,
+      "model": "Naive Bayes",
+      "review": "This flick is sterling example of the state of erotic B-movies: bad porn movies without the hardcore sex. The plot in this one isn't so bad as these things go; it involves a female lawyer trying to prove her lover is innocent of killing his wife. The rest of the movie, however, leaves something to be desired. Bad acting, bad direction, bad looking woman, bad sets, bad cinematography, bad sound and",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9734,
+      "length": 604,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9158,
+      "model": "Naive Bayes",
+      "review": "This movie is stuffed full of stock Horror movie goodies: chained lunatics, pre-meditated murder, a mad (vaguely lesbian) female scientist with an even madder father who wears a mask because of his horrible disfigurement, poisoning, spooky castles, werewolves (male and female), adultery, slain lovers, Tibetan mystics, the half-man/half-plant victim of some unnamed experiment, grave robbing, mind c",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9677,
+      "length": 2659,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6839,
+      "model": "Naive Bayes",
+      "review": "The Kissing Bandit was the third and final film that Frank Sinatra and Kathryn Grayson co-starred at MGM with. The first two were Anchors Aweigh and It Happened in Brooklyn. And in both Sinatra wooed and lost Grayson. I guess the third time's the charm.<br /><br />For romance maybe, but definitely not for screen image. Sinatra in his forty's films once again plays the nice little schnook only this",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9613,
+      "length": 1672,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4338,
+      "model": "Naive Bayes",
+      "review": "I was really excited about seeing this film. I thought finally Australia had made a good film.. but I was wrong.<br /><br />This was the most pathetic attempt at a slasher film ever. I feel sorry for Molly Ringwald having to come all the way to Australia to make an awful movie.<br /><br />The acting was terrible (especially that Australian guy who was trying to speak in an American accent), and th",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9606,
+      "length": 977,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 905,
+      "model": "Naive Bayes",
+      "review": "It was only the second year of the Academy but already they were voting politically - Jeanne Eagels' brilliant performance in this creaky early talkie had to make do with an Oscar nom and the statuette went to the worst performance ever to win - Mary Pickford's in COQUETTE. The only existing print was a work print without music or final editing, but wherever it's shown, Eagels stuns and captivates",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9604,
+      "length": 1157,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2105,
+      "model": "Naive Bayes",
+      "review": "I remember this film as the other person that commented said. I recorded over it but wish I had it now just because it had to be one of the worst movies ever. Funny, in a real bad way. I remember the tag line on the box was \"The ultimate frontal lobotomy\". I got it from my mom, who got it from a friend at work who said it was the worst / cheesiest movie she had ever seen, so my mom said \"My son wi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9604,
+      "length": 1101,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7670,
+      "model": "Naive Bayes",
+      "review": "This tale of the upper-classes getting their come-uppance and wallowing in their high-class misery is like a contemporary Mid-Sommerish version of an old Joan Crawford movie in which she suffered in mink. Here, people behave in a frightfully civilized manner in the face of adversity. A well-heeled London solicitor, (Tom Wilkinson), discovers that not only is his wife having an affair with the loca",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9543,
+      "length": 1326,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3661,
+      "model": "Naive Bayes",
+      "review": "This movie maybe really bad, but it is alot of fun. The bad acting and poor direction enhance the film's hystericalness. The twins are very funny in their Conanesque roles. If you go into this film expecting the first Conan or Excalibur, than you will hate it. If you watch it while in a good mood and accept it as good, dumb fun you will have a good time. Watch for the scene where they try to hang ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9536,
+      "length": 504,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7040,
+      "model": "Naive Bayes",
+      "review": "The movie was a pleasure to watch if you are a fan of the Stooges. The story is told from the point of view of Moe Howard and his relationships with his brothers Shemp and Jerome (Curly) Howard, also the life long friendship with Larry Fine. The movie deals mostly with the off camera high points and pit falls of the Stooges multi decade career. The casting director and makeup artist did a fair job",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9529,
+      "length": 614,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 5162,
+      "model": "Naive Bayes",
+      "review": "This is simply the funniest movie I've seen in a long time. The bad acting, bad script, bad scenery, bad costumes, bad camera work and bad special effects are so stupid that you find yourself reeling with laughter.<br /><br />So it's not gonna win an Oscar but if you've got beer and friends round then you can't go wrong.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9503,
+      "length": 322,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8161,
+      "model": "Naive Bayes",
+      "review": "Robert Taylor definitely showed himself to be a fine dramatic actor in his role as a gun-slinging buffalo hunter in this 1956 western. It was one of the few times that Taylor would play a heavy in a film. Nonetheless, this picture was far from great as shortly after this, Taylor fled to television with the successful series The Detectives.<br /><br />Stuart Granger hid his British accent and turne",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9502,
+      "length": 1131,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7977,
+      "model": "Naive Bayes",
+      "review": "The acronymic \"F.P.1\" stands for \"Floating Platform #1\". The film portends the building of an \"F.P.1\" in the middle of the Atlantic Ocean, to be used as an \"air station\" for transatlantic plane flights. Based a contemporary Curt Siodmark novel; it was filmed in German as \"F.P.1 antwortet nicht\" (1932), in French as \"I.F.1 ne r\u00e9pond plus\" (1933), and in English as \"F.P.1\" (1933). Soon, technology m",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.95,
+      "length": 960,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 270,
+      "model": "Naive Bayes",
+      "review": "This film was made in Saskatchewan and Manitoba Parks and returned the world eye again to what little of the \"Wild Western Canada\" is left. When Archie began to write his stories for the papers; the thought of the day was to tame the wilderness and convert/absorb the First Nation Peoples.<br /><br />The film puts forward and asks the question; why would a well-educated, obviously talented Englishm",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9473,
+      "length": 1682,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 477,
+      "model": "Naive Bayes",
+      "review": "First of all , you should watch this only if you don't mind the lack of subtitles , pornography , kinky sex and utter , horrifying and truly shocking depravity . I mentioned kinky sex , but to call sex in the second half of the movie \" kinky \" would be a great understatement . It's more like a punch in the face if you aren't prepared for this sort of sickness . That being said , I can go back to r",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.938,
+      "length": 2443,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9615,
+      "model": "Naive Bayes",
+      "review": "Actually I liked this movie very, very much. Not because of it`s plot, acting, jokes, no. I liked it, because it`s one of the worse movies ever created. It`s so lame, so bad, that it becomes terribly funny. Some jokes are actually cool, but the rest makes me pray for unemployment for the scriptwriter. \"Men in white\" are so dumb and stupid, that you can do only two things. Turn the TV off or roll o",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.936,
+      "length": 468,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1569,
+      "model": "Naive Bayes",
+      "review": "Just saw the movie, and the scary thing was, the people talking during the movie sounded just like the actors. The movie had its moments, but also lagged and was rather sick. It was all meant to be a farce, but once you see the pathetic lives of the people in the movie, you think to yourself \"People like this are all around us\" All attempts at getting the audience's sympathy are dashed as the acto",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9357,
+      "length": 630,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 884,
+      "model": "Naive Bayes",
+      "review": "(various spoilers follow)<br /><br />Gene Kelly. Not Georges Guetary, who is sometimes criticized for being too young and un-French. Not Leslie Caron, who is sometimes criticized for her very green performance. Not even Oscar Levant, who more often than not annoys the dickens out of me.<br /><br />No, it would definitely be Gene Kelly. There's something about his screen persona that's too ambitiou",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9344,
+      "length": 3811,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3053,
+      "model": "Naive Bayes",
+      "review": "OK...this one's a weirdy....Honestly, I can't tell you all the inner plot-points of THE BEAST, cuz I started losing interest when nothing happened during the first 45 or more minutes - but just wait, it definitely does \"pick up\"...<br /><br />The plot involves something about a monster in the woods that some French aristocrat chick screwed back in the day. Eventually you see \"THE BEAST\", which loo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9309,
+      "length": 2545,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4713,
+      "model": "Naive Bayes",
+      "review": "My buddies and I spent the majority of a Saturday afternoon watching a selection of \"bad\" movies. Among the flicks we watched, the strongest contender (for quality bad-movie fare) was easily Jack-O. It's ludicrous that movies such as \"Gigli\", \"Glitter\" and \"You Got Served\" are listed in IMDBs bottom 100. While they're certainly bad movies, they don't belong in the bottom 100. They're robbing \"Jack",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9308,
+      "length": 2450,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 985,
+      "model": "Naive Bayes",
+      "review": "Hollywood, the home of hype, glamor and the search for profits, is scarcely ruled by spiritual values, and so it comes as no surprise that its attempts at investigations of the spiritual life are thin and often silly (better to go farther afield--to the films of Bresson, Dreyer, Rossellini and Bergman, for probing depictions of the spirituality). \"Strange Cargo\" is no exception. This odd hybrid of",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.93,
+      "length": 1909,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 871,
+      "model": "Naive Bayes",
+      "review": "I wouldn't say this is a bad movie; in fact it's pretty typical of the type of film that the \"poverty row\" studios were releasing at the time. Filmed for Monogram, Bela Lugosi is very effective in his role as the somewhat demented doctor-scientist, masquerading as a respected member of the community. In this movie, Bela and his henchmen have the nasty habit of stealing young brides, and, after the",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9291,
+      "length": 1169,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4176,
+      "model": "Naive Bayes",
+      "review": "This incredibly formulaic flick from the \"Walker, Texas Ranger\" squad contains some of the most unbelievable scenes ever witnessed within a TV movie. In addition, one can pretty much predict the outcome from the get-go. However, it's a fun little movie that gets the job done: it entertains. That's all it was meant to do and it does so. The stunts and explosions are fun and exciting and the plot is",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9264,
+      "length": 668,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9485,
+      "model": "Naive Bayes",
+      "review": "This movie would had worked much better if this was the first Critters movie, this is a low-budget movie with only two (2) Critters shown on-screen. Why this looks like a fail is because this is the last Critters movie and it's so low-budget that it seems the director made the whole movie with his own pocket money. However, I did like this movie, I compare it mostly with the third movie (which wer",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.926,
+      "length": 1353,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3462,
+      "model": "Naive Bayes",
+      "review": "L'OSSESSA, also known as THE TORMENTED or THE SEXORCIST, or the ridiculously titled THE EERIE MIDNIGHT HORROR SHOW, is a forgotten EXORCIST rip-off which contains one of the best horror moments I've ever seen. The scene is when the crucifix comes alive. This great spooky scene is unforgettable and totally effective (great FXs). It's a shame the rest of the movie doesn't maintain the level of creep",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.925,
+      "length": 1720,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 671,
+      "model": "Naive Bayes",
+      "review": "Adenoid Hynkel, a lowly soldier in World War One, rises in subsequent years to become the ruthless dictator of Toumania. He creates an aggressive, antisemitic war machine and cultivates a little toothbrush moustache. Sound like anyone you know?<br /><br />From the safety of Hollywood, Chaplin uses this soapbox to exhort Europe to take up arms and defy Hitler and Mussolini. Given that the United St",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9248,
+      "length": 4424,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9666,
+      "model": "Naive Bayes",
+      "review": "If you've ever wondered why they don't make porn with a plot, watch Dream Quest. On the one hand, you have to give the Armstrong credit both for making the effort to capitalize on this idea and for using such a strong adult cast to put some name power behind it. On the other hand, it also quickly becomes apparent why most porns never have more than 15 or 20 seconds of dialog connecting sex scenes ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9218,
+      "length": 742,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2951,
+      "model": "Naive Bayes",
+      "review": "Voor een verloren soldaat , for a lost soldier, is a sad example of how not to translate to film a touching, complex psychological study, of that most magical time in a man's life, when he is still a child, but starting to become a man. The novel records the real life experiences of Rudy van Dantzig, as told thru the boy Jeroen, during the waning days of WWII at age 11 as he deals with his incipie",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9211,
+      "length": 1889,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2338,
+      "model": "Naive Bayes",
+      "review": "The figure of empress Elizabeth of Austria (1837-1898) is, indeed, mostly associated with Romy Schneider and the Sissi trilogy by Ernst Marischka (1950s) where beauty, gentleness, sweetness but also history are ever present. This was the Sissi, perhaps myth for some; however, a powerful portrayal. The spirit of the Habsburgs' grandeur as well as the spirit of the Bavarian simplicity and straightfo",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9204,
+      "length": 4661,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 744,
+      "model": "Naive Bayes",
+      "review": "I'd honestly give this movie a solid 7.5, but I clicked 10 to try to offset the 5 pages of imbecilic, unjustified 1-star reviews. This is an interesting story, all of the acting is good to very good (even Ms. Diaz, who is totally out of her usual grinning-bimbo role here, yet plays it well.) The sets are perfect and the cinematography is consistently appropriately creepy. It's a fine morality play",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9199,
+      "length": 2270,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2440,
+      "model": "Naive Bayes",
+      "review": "Ayone who whines about how this movie was crap or that it had no plot must have been looking for \"Jean de Florrette\". HELLO! this film was made to be a random act of comedy and in no way involves a plot in any way shape or form. I would also like to remind these whiners that if you are going to flay the crap out of this film that they seem to be missing the point. This film is clearly made for peo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9188,
+      "length": 700,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3026,
+      "model": "Naive Bayes",
+      "review": "I have no idea why everyone hates this movie to call it garbage a travesty an unexceptable sequel is just unfair i mean what else could they have made for a sequel then. Cause seriously I think it should have had a sequel (Rodney Dangerfield) says: hey everyone were all going to get laid and then a little dancing goffer and thats it thats the end of Caddyshack even though the film rating on first ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9183,
+      "length": 484,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8560,
+      "model": "Naive Bayes",
+      "review": "Forget everything that you have ever read about the Mallachi Brothers' straight-to-video release \"Snakes on a Train,\" especially if it was a negative review. This movie is way more fun than the movie that it obviously rips off: \"Snakes on a Plane.\" Frankly, I am surprised that more people aren't rhapsodizing about this low-budget Asylum Release. Instead, most reviews that I've read have nothing ki",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9161,
+      "length": 4046,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6644,
+      "model": "Naive Bayes",
+      "review": "We don't know if Darlene loves all three gentleman, certainly they are wary of one another, yet they live together. Viewers might surmise that the feelings of rivalry between the gentleman and the feelings of all of them toward Darlene might make for an unbearable home life.<br /><br />In the eerily beautiful rural Brazilian landscape (emphasized by the frequent use of polarization and the use of ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9136,
+      "length": 1252,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2365,
+      "model": "Naive Bayes",
+      "review": "The bearings of western-style Feminism on the various subcultures of India have hitherto remained largely non-existent, the two entities belonging to alien realms and threatening (in the name of tradition) never to coincide. Art imitates life (or so the claim goes) and popular Hindi cinema is no exception, reflecting an underlying misogyny which, regrettably, forms the foundation of much of the co",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.911,
+      "length": 6031,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6471,
+      "model": "Naive Bayes",
+      "review": "This film is really, really full of sex. Hot sex. I watched it (of course) on Cinemax; and I liked it of course; those virtual fantasies are played out so much in great style, and I kind of enjoyed the story line. But one must know that when a soft porn film director sets out to make another soft porn film; all he/she wants to do is film good sex scenes. And I got nice sex scenes, full of skin. Ye",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9089,
+      "length": 469,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 759,
+      "model": "Naive Bayes",
+      "review": "This film aka \"the four hundred blows\" is a mistranslation.Faire les 400 coups\" means\"to live a wild life. As a French,I'm stunned when I see the popularity of this good ,but by no means outstanding film. 1.It's not the first film of the \"nouvelle vague\" move;check Agnes Varda's \"la pointe courte\",(1956)Alain Resnais's \"Hiroshima mon amour\"(1958),Claude Chabrol's \"le beau serge\"(1958) are anterior",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9063,
+      "length": 2785,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6718,
+      "model": "Naive Bayes",
+      "review": "When I heard about \"Hammerhead\" being released on DVD and finally found it at my local DVD store, I thought \"well, just another cheap monster movie from Nu Image\". Those guys around Boaz Davidson and Avi Lerner produced cheap but very entertaining B - Pictures in the past few months but also some very disappointing movies. So I didn't expect much, especially after having watched the rather disappo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9063,
+      "length": 1593,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4946,
+      "model": "Naive Bayes",
+      "review": "This video guide was the masterpiece of the year 1995. Beautifully done! Matthew Perry and Jennifer Aniston have major on-screen chemistry when they talk about what the Start button does. I'm waiting for Microsoft to release a Special Edition DVD complete with deleted scenes, Bill Gates commentary, a documentary of how Windows 95 compares to Windows XP, and more!<br /><br />Overall: 10/10 (Should ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9048,
+      "length": 433,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1692,
+      "model": "Naive Bayes",
+      "review": "Saboteur was one of the few Hitchcocks I had yet to discover and I was less than half-overwhelmed. The French title \"La Cinqui\u00e8me colonne\" (i.e. The Fifth Column, a very evocative phrase for underground spying and sabotage organizations) set my expectations quite high as did the images of the finale on top of the Statue of Liberty.<br /><br />Basically Saboteur is as much light-hearted as were The",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9047,
+      "length": 2050,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3920,
+      "model": "Naive Bayes",
+      "review": "As a collector of movie memorabilia, I had to buy the movie poster for this film which, now that I've finally seen it, has to be the best thing about it. There's nothing more attractive to hang on your wall than a 27x41 inch image of the melting man. However, there's nothing more awful to put in your VCR than an hour and a half long image of the melting man. At first I thought this movie was pure ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9045,
+      "length": 948,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3020,
+      "model": "Naive Bayes",
+      "review": "I don't know what the Oscar voters saw in this movie, but they must of seen some pretty hard stuff to see in it to be able to award it with the best picture Oscar. All I know is that fortunately there was Gene Kelly to play in it or this would have been twice as bad as I believe it is. First of all, I don't think Leslie Caron was really fit to play such a role. She isn't that talented, she isn't a",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9019,
+      "length": 1124,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 609,
+      "model": "Naive Bayes",
+      "review": "Luchino Visconti, the artist with the sword. Courage should be the first word associated with his entire opus. Film. Theater. Music. Revolutions, artistic, cultural, personal. A legacy with powerful consequences and endless ramifications. He introduced the neorealism through the work of an American novelist James Cain in \"Ossesione\" He gave Anna Magnani the most extraordinarily beautiful close ups",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9007,
+      "length": 808,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1354,
+      "model": "Naive Bayes",
+      "review": "after seeing this film for the 3rd time now i think it is almost Adam's worst film PUNCH DRUNK LOVE IS POOR in comparison to this i must say at the end when Dickie gets thrown of the boat it is so funny (the hair is different to his and i like it when he flips everyone off. This film should only be brought if your a true Adam Sandler fan.<br /><br />the characters are poor in comparison to his fun",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.8985,
+      "length": 630,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7019,
+      "model": "Naive Bayes",
+      "review": "Although this movie is inaccurate overall, there are some items that may be true. Certainly, he was a wild character in his youth, having played practical jokes on his fellow cadets at West Point, almost expelled several times, graduating last in his class (of 34), and often reckless in his leadership during the Civil War.<br /><br />But history may have made him a scape goat of the Indian Wars. C",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8978,
+      "length": 1147,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4708,
+      "model": "Naive Bayes",
+      "review": "This was my very first \"Bollywood\" movie and I found it in the same way many other recent viewers did -- through \"Ghost World\". Having done a little bit of reading up on the film industry of Bollywood this week, I understand somewhat why there are seemingly unrelated musical numbers and romance and comedy in a horror film. But \"Something for everyone\" doesn't always add up to a cohesive product.<b",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8972,
+      "length": 1908,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9794,
+      "model": "Naive Bayes",
+      "review": "I'll be honest. I got this movie so I could make fun of it. I mean, come on, \"Hood of the Living Dead\"? What other reaction could I have? The thing is, though, the movie (and its makers) decided that it wasn't going to be made fun of. Instead, it was going to try its best to be a good movie.<br /><br />And you know what? It came awfully close. A little less cheese in the incidental music, a little",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.897,
+      "length": 1377,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7840,
+      "model": "Naive Bayes",
+      "review": "I grew up watching the original Disney Cinderella, and have always loved it so much that the tape is a little worn.<br /><br />Accordingly, I was excited to see that Cinderella 2 was coming on TV and I would be able to see it.<br /><br />I should have known better.<br /><br />This movie joins the club of movie sequels that should have just been left alone. It holds absolutely NONE of the originals",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8962,
+      "length": 1559,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2730,
+      "model": "Naive Bayes",
+      "review": "Working with one of the best Shakespeare sources, this film manages to be creditable to it's source, whilst still appealing to a wider audience.<br /><br />Branagh steals the film from under Fishburne's nose, and there's a talented cast on good form.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8961,
+      "length": 250,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3817,
+      "model": "Naive Bayes",
+      "review": "I firmly believe that the best Oscar ceremony in recent years was in 2003 for two reasons: <br /><br />1 ) Host Steve Martin was at his most wittiest: \" I saw the teamsters help Michael Moore into the trunk of his limo \" and \" I'll better not mention the gay mafia in case I wake up with a poodle's head in my bed \" <br /><br />2 ) Surprise winners: No one had Adrien Brody down for best actor ( Genu",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8917,
+      "length": 3638,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4534,
+      "model": "Naive Bayes",
+      "review": "No doubt Frank Sinatra was a talented actor as well as a talented singer. After all, very few actors nowadays can get a scene just right in one take, and that was pretty much Sinatra's modus operandi on set.<br /><br />I feel that as the 1960's wore on, the quality of the man's films really started to tank. The Tony Rome detective series was nothing short of trying to compete with Dean Martin's Ma",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8916,
+      "length": 734,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6791,
+      "model": "Naive Bayes",
+      "review": "*SPOILERS*<br /><br />I don't care what anyone says, this movie is friggin' hilarious. This is the sequel to Jack Frost, a movie about a killer snowman. The snowman is created when a convicted serial killer about to be executed is taken to the execution chamber, but the truck crashes with a truck carrying DNA manipulation chemicals that make human DNA bond with dirt, or in this case, snow. The fir",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.8914,
+      "length": 1893,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2227,
+      "model": "Naive Bayes",
+      "review": "Sure it was well shot and made, very well shot and made! But the story was just so weak. And the portrayal of Lincoln was even weaker. Not that Henry Fonda wasn't good but the character he played was nothing but a loon. Do you mean to tell me that Lincoln was a wise cracking smart ass with no respect of the law or the court. I mean who the hell was he supposed to be? Cousin Vinnie? I mean come on,",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.8907,
+      "length": 1333,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1869,
+      "model": "Naive Bayes",
+      "review": "Water shows the plight of Indian widows in the late 1930s, says in the end that the problem still exists largely by giving statistics in the end, refers to Gandhi several times in the movie before finally having a scene depicting him and does nothing extra ordinarily innovative or new in the movie. Yes, the cinematography is pretty impressive but that cannot be the soul of any movie for me. <br />",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8895,
+      "length": 1470,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2462,
+      "model": "Naive Bayes",
+      "review": "I've heard a lot about Porno Holocaust and its twin film Erotic Nights Of The Living Dead. Both films are interchangeable and were filmed at the same time on the same location with the same actors changing clothes for each film (and taking them off). If you are expecting the D'Amato genius displayed in films like Buio Omega or Death Smiles on Murder, you won't find it here. Nonetheless this film h",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.8893,
+      "length": 1495,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5492,
+      "model": "Naive Bayes",
+      "review": "Recently, I saw the documentary \"The revolution will not be televised\", also know as \"Ch\u00e1vez: inside the coup\". At first I thought it showed a genuine inside view of events during the Venezuela coup of April 2002. What bothered me though was the fact that the tone of the narration and the accompanying music were suggestive, and that at no point any criticism was expressed about Hugo Ch\u00e1vez. This i",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8891,
+      "length": 1528,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6345,
+      "model": "Naive Bayes",
+      "review": "The Box is one of the strangest movies I have ever seen. To explain my experience, let me use this word picture: Imagine that you have been binging on pixie sticks and paint fumes for the last month while watching nothing but Twilight Zone reruns. The resulting coma lands you in a hospital, where the nurse seems to get a kick out of shooting adrenalin into your IV. The dream that you have while in",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.8876,
+      "length": 2519,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8471,
+      "model": "Naive Bayes",
+      "review": "The 1930' were a golden age of Los Angeles with its film industry and great potential of various other possibilities to become rich and famous and happy. People were arriving there hoping to fulfill their dreams. Expecting open arms and welcoming offers there were only a few who managed to succeed and find their way to stardom, majority then condemned to live starving, disillusioned and unwanted, ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.8864,
+      "length": 3177,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4546,
+      "model": "Naive Bayes",
+      "review": "Frank Sinatra plays a no-goodnik ex-soldier and frustrated writer, hard-living and hard-drinking, who returns to his Midwestern hometown and reunites with his estranged brother (Arthur Kennedy), now the town big-shot with a disinterested wife and headstrong daughter. Frank gets involved with gambler Dean Martin, uneducated flooze Shirley MacLaine, and has some run-ins with the law, but what he rea",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.886,
+      "length": 1019,
+      "error_type": "False Positive"
+    }
+  ],
+  "Logistic Regression": [
+    {
+      "id": 7003,
+      "model": "Logistic Regression",
+      "review": "This low-budget erotic thriller that has some good points, but a lot more bad one. The plot revolves around a female lawyer trying to clear her lover who is accused of murdering his wife. Being a soft-core film, that entails her going undercover at a strip club and having sex with possible suspects. As plots go for this type of genre, not to bad. The script is okay, and the story makes enough sens",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9995,
+      "length": 2008,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9158,
+      "model": "Logistic Regression",
+      "review": "This movie is stuffed full of stock Horror movie goodies: chained lunatics, pre-meditated murder, a mad (vaguely lesbian) female scientist with an even madder father who wears a mask because of his horrible disfigurement, poisoning, spooky castles, werewolves (male and female), adultery, slain lovers, Tibetan mystics, the half-man/half-plant victim of some unnamed experiment, grave robbing, mind c",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9993,
+      "length": 2659,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3156,
+      "model": "Logistic Regression",
+      "review": "If, unlike some of the commenters here, you are not staging a class war and don't mind seeing the lives of other people who are fairly successful, extroverted, bohemian (gasp) and not being terribly English at a party and getting into all sorts of trouble as a result this is not a bad film, closer to Euro cinema rather than an imitation of the usual slick American crap... I believe the minimal sou",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9955,
+      "length": 981,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4338,
+      "model": "Logistic Regression",
+      "review": "I was really excited about seeing this film. I thought finally Australia had made a good film.. but I was wrong.<br /><br />This was the most pathetic attempt at a slasher film ever. I feel sorry for Molly Ringwald having to come all the way to Australia to make an awful movie.<br /><br />The acting was terrible (especially that Australian guy who was trying to speak in an American accent), and th",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9943,
+      "length": 977,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1337,
+      "model": "Logistic Regression",
+      "review": "This flick is sterling example of the state of erotic B-movies: bad porn movies without the hardcore sex. The plot in this one isn't so bad as these things go; it involves a female lawyer trying to prove her lover is innocent of killing his wife. The rest of the movie, however, leaves something to be desired. Bad acting, bad direction, bad looking woman, bad sets, bad cinematography, bad sound and",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.994,
+      "length": 604,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9955,
+      "model": "Logistic Regression",
+      "review": "normally i'm not the sort to be scared by horror movies, but this movie is the exception. some how this movie got into my mind!!! it is a very simple movie but at the same time extremelly effective, it has great atmosphere and this leads to some shocking moments, the girls father coming down the hill is a real standout. Another seen was the family photo i wasn't expecting that and i jumped out my ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9931,
+      "length": 516,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 5422,
+      "model": "Logistic Regression",
+      "review": "I enjoyed the beautiful scenery in this movie the first time I saw it when I was 9 . Dunderklumpen is kind of cute for kiddies in a corny way. It reminded me of HRPUFFINSTUFF on sat mornings, Its Swedish backdrops make it easy on the eyes . Don't expect older kids to be interested as the live action/animation is way behind the times and most older kids will get bored.This is definitely an under 10",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9927,
+      "length": 487,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4987,
+      "model": "Logistic Regression",
+      "review": "Yes, the cameras were in the right place at the right time. It's so interesting to see how a world leader (like Chavez) who supports the poor people in his country, can be held in such low esteem in the US. His worst \"sin\", in my opinion, is caring about those who are at the bottom of the barrel. What can be so bad about that? I have always been fascinated by the US government+media reaction to Fi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9895,
+      "length": 842,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3157,
+      "model": "Logistic Regression",
+      "review": "This was one of Christie's later stories. Throughout her long career, she was interested in the shifting narrative and the notion of conflicting agents. Both are essentially the same thing and boil down to questions of who it is that controls or creates the situation.<br /><br />In detective fiction, the game is a matter of conflicting realities. The murderer intends to change reality to fool the ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9872,
+      "length": 1927,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2105,
+      "model": "Logistic Regression",
+      "review": "I remember this film as the other person that commented said. I recorded over it but wish I had it now just because it had to be one of the worst movies ever. Funny, in a real bad way. I remember the tag line on the box was \"The ultimate frontal lobotomy\". I got it from my mom, who got it from a friend at work who said it was the worst / cheesiest movie she had ever seen, so my mom said \"My son wi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9839,
+      "length": 1101,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2951,
+      "model": "Logistic Regression",
+      "review": "Voor een verloren soldaat , for a lost soldier, is a sad example of how not to translate to film a touching, complex psychological study, of that most magical time in a man's life, when he is still a child, but starting to become a man. The novel records the real life experiences of Rudy van Dantzig, as told thru the boy Jeroen, during the waning days of WWII at age 11 as he deals with his incipie",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9831,
+      "length": 1889,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3920,
+      "model": "Logistic Regression",
+      "review": "As a collector of movie memorabilia, I had to buy the movie poster for this film which, now that I've finally seen it, has to be the best thing about it. There's nothing more attractive to hang on your wall than a 27x41 inch image of the melting man. However, there's nothing more awful to put in your VCR than an hour and a half long image of the melting man. At first I thought this movie was pure ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.982,
+      "length": 948,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4708,
+      "model": "Logistic Regression",
+      "review": "This was my very first \"Bollywood\" movie and I found it in the same way many other recent viewers did -- through \"Ghost World\". Having done a little bit of reading up on the film industry of Bollywood this week, I understand somewhat why there are seemingly unrelated musical numbers and romance and comedy in a horror film. But \"Something for everyone\" doesn't always add up to a cohesive product.<b",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9817,
+      "length": 1908,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6274,
+      "model": "Logistic Regression",
+      "review": "Why does the poster & artwork say \"Clubbed is one of the best UK indie films I have seen in a very long time. SCREEN INTERNATIONAL\" when it was a quote of the French distributor REPORTED by Screen International (an influential film trade publication). See www.screendaily.com/ScreenDailyArticle.aspx?intStoryID=39811 which reads:<br /><br />\"Pretty Pictures has acquired all French-speaking rights to",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9817,
+      "length": 668,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 905,
+      "model": "Logistic Regression",
+      "review": "It was only the second year of the Academy but already they were voting politically - Jeanne Eagels' brilliant performance in this creaky early talkie had to make do with an Oscar nom and the statuette went to the worst performance ever to win - Mary Pickford's in COQUETTE. The only existing print was a work print without music or final editing, but wherever it's shown, Eagels stuns and captivates",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9813,
+      "length": 1157,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3161,
+      "model": "Logistic Regression",
+      "review": "This film is worth seeing since it is a classic in the sense of being the very first full length film released in the process of three demention. It was not very good in its acting or story plot, but can be a great movie quiz question from an historical standpoint. It should be seen in the 3 D process with polarized lenses.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9811,
+      "length": 325,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3392,
+      "model": "Logistic Regression",
+      "review": "I was unsure whether or not Andy Sidaris could repeat his success with the cinematic hit \"Malibu Express.\" With his film Fit to Kill he has proved that Sidaris is a serious filmmaker and not just a one-shot director. The plot written by Sidaris, which was ungratefully passed up by the Academy, is a complex screenplay involving many unseen twists and turns. The main characters composed work for a s",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9797,
+      "length": 1429,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2730,
+      "model": "Logistic Regression",
+      "review": "Working with one of the best Shakespeare sources, this film manages to be creditable to it's source, whilst still appealing to a wider audience.<br /><br />Branagh steals the film from under Fishburne's nose, and there's a talented cast on good form.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9791,
+      "length": 250,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7709,
+      "model": "Logistic Regression",
+      "review": "This film got terrible reviews but because it was offbeat and because critics don't usually \"get\" offbeat films, I thought I'd give it a try. Unfortunately they were largely right in this instance.<br /><br />The film just has an awkward feel too it that is most off putting. The sort of feel that is impossible to describe, but it's not a good one. To further confound things, the script is a dull a",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.979,
+      "length": 1303,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9132,
+      "model": "Logistic Regression",
+      "review": "Well, I must say, I initially found this short to be quite average, but having watched it nearly 5 times since (its constantly shown on IFC), I've developed an enjoyment of the simple plot elements and reality of the situations presented. Sofia Coppola contributes a solid addition to the category.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9789,
+      "length": 298,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9666,
+      "model": "Logistic Regression",
+      "review": "If you've ever wondered why they don't make porn with a plot, watch Dream Quest. On the one hand, you have to give the Armstrong credit both for making the effort to capitalize on this idea and for using such a strong adult cast to put some name power behind it. On the other hand, it also quickly becomes apparent why most porns never have more than 15 or 20 seconds of dialog connecting sex scenes ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9784,
+      "length": 742,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 270,
+      "model": "Logistic Regression",
+      "review": "This film was made in Saskatchewan and Manitoba Parks and returned the world eye again to what little of the \"Wild Western Canada\" is left. When Archie began to write his stories for the papers; the thought of the day was to tame the wilderness and convert/absorb the First Nation Peoples.<br /><br />The film puts forward and asks the question; why would a well-educated, obviously talented Englishm",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9782,
+      "length": 1682,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1017,
+      "model": "Logistic Regression",
+      "review": "I haven't seen any other films by Antonioni and the people that saw this one with me agreed that it shares themes and imagery with the rest of his works. Maybe if I had seen other stuff by him I would have enjoyed this one, knowing what to expect. <br /><br />I saw it as an almost complete failure for so many reasons. First of all, the film introduces interesting, deep issues about social relation",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.978,
+      "length": 1391,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6502,
+      "model": "Logistic Regression",
+      "review": "If Daphne Du Maurier had set REBECCA in 1950s San Francisco, it might very well resemble this uptight, highly unusual noir from Robert Wise. Valentina Cortese plays a concentration camp survivor who steals the identity of a dead woman and insinuates herself into the life of Richard Basehart (who happens also to be the guardian of the dead woman's son)...it's absurd and over-the-top but also topfli",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9769,
+      "length": 846,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3098,
+      "model": "Logistic Regression",
+      "review": "I totally got drawn into this and couldn't wait for each episode. The acting brought to life how emotional a missing person in the family must be , together with the effects it would have on those closest. The only problem we as a family had was how quickly it was all 'explained' at the end. We couldn't hear clearly what was said and have no idea what Gary's part in the whole thing was? Why did Ky",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.974,
+      "length": 702,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3053,
+      "model": "Logistic Regression",
+      "review": "OK...this one's a weirdy....Honestly, I can't tell you all the inner plot-points of THE BEAST, cuz I started losing interest when nothing happened during the first 45 or more minutes - but just wait, it definitely does \"pick up\"...<br /><br />The plot involves something about a monster in the woods that some French aristocrat chick screwed back in the day. Eventually you see \"THE BEAST\", which loo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9737,
+      "length": 2545,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2005,
+      "model": "Logistic Regression",
+      "review": "This movie was rented by a friend. Her choice is normally good. I read the cover first and was expecting a good movie. Although it<br /><br />was a horror movie. Which i don't prefer. But no horror came to mind while watching the movie. It was a dull,<br /><br />not very entertaining movie. The appearance of Denise Richards<br /><br />was again a pleasure for the eye. But that's it. We (the four o",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9709,
+      "length": 515,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4698,
+      "model": "Logistic Regression",
+      "review": "This movie was awesome!! (Not quite as good as the Leif Garrett masterpiece Longshot) but still awesome!! I thought Ashley looked freakin' huge compared to Mary-Kate in this film. I wonder why. Who woulda thought they could swith places like that and almost get away with it. Dad was kinda a jerk though and Mom was a little too chummy with Helmit Head. I give it 4. Any one who likes this movie shou",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9705,
+      "length": 422,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1839,
+      "model": "Logistic Regression",
+      "review": "Cinematography--Compared to 'The Wrestler,' a degree of verite and cinematic skill that disarms the viewer, and then hypnotizes as well.<br /><br />Acting--The dialogue is minimal, but the pauses and silence poignant.<br /><br />Story--The conflict in a 'balkanized' Denmark is volatile, as we saw recently jihad murders in the Netherlands and riots in France. While I harbor no love for Islam, the d",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.97,
+      "length": 773,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1354,
+      "model": "Logistic Regression",
+      "review": "after seeing this film for the 3rd time now i think it is almost Adam's worst film PUNCH DRUNK LOVE IS POOR in comparison to this i must say at the end when Dickie gets thrown of the boat it is so funny (the hair is different to his and i like it when he flips everyone off. This film should only be brought if your a true Adam Sandler fan.<br /><br />the characters are poor in comparison to his fun",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9695,
+      "length": 630,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3267,
+      "model": "Logistic Regression",
+      "review": "I saw this movie as a very young girl (I'm 27 now) and it scared me witless for years. I had nightmares about every aspect of this film from the way it was drawn to the music to (obviously) the violence. My parents still argue about who allowed me to watch it and both of them say that they would never let me watch such a movie. I think they only say that knowing that I have such strong feelings ab",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9688,
+      "length": 1078,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 8028,
+      "model": "Logistic Regression",
+      "review": "Flat out the funniest spoof of pretentious art house films ever made.<br /><br />This flick exposes all the clich\u00e9s, and then some! Excruciatingly bad (Downs-Syndrome!) actors. Terribly heavy self important dialog. Scenes that are supposed to shock but fall flat. Jarring editing. Pointless plot points. All wrapped up in a kind of smirky miasma of disrespect for the audience and vague psych-drivel.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9687,
+      "length": 968,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8560,
+      "model": "Logistic Regression",
+      "review": "Forget everything that you have ever read about the Mallachi Brothers' straight-to-video release \"Snakes on a Train,\" especially if it was a negative review. This movie is way more fun than the movie that it obviously rips off: \"Snakes on a Plane.\" Frankly, I am surprised that more people aren't rhapsodizing about this low-budget Asylum Release. Instead, most reviews that I've read have nothing ki",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9676,
+      "length": 4046,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7040,
+      "model": "Logistic Regression",
+      "review": "The movie was a pleasure to watch if you are a fan of the Stooges. The story is told from the point of view of Moe Howard and his relationships with his brothers Shemp and Jerome (Curly) Howard, also the life long friendship with Larry Fine. The movie deals mostly with the off camera high points and pit falls of the Stooges multi decade career. The casting director and makeup artist did a fair job",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9671,
+      "length": 614,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2600,
+      "model": "Logistic Regression",
+      "review": "I really liked this quirky movie. The characters are not the bland beautiful people that show up in so many movies and on TV. It has a realistic edge, with a captivating story line. The main title sequence alone makes this movie fun to watch.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9664,
+      "length": 242,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 316,
+      "model": "Logistic Regression",
+      "review": "Stefan is an x-con that five years ago got married to Marie. Their marriage has been stable until Stefan past catch up with them and he's offered to do a courier job. Stefan's job is a heroin delivery from Germany to Sweden which should go easily.<br /><br />In Germany Stefan meet Elli, a girl from Bosnia that has been sold to a stripclub owner. Stefan dislikes what he sees and decide to help Elli",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9653,
+      "length": 1009,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1705,
+      "model": "Logistic Regression",
+      "review": "A colleague from work told me to watch this movie, since he considered this movie to be one of the best movies ever. So I did watch it. First I have to admit that I dislike mainstream movies and prefer to watch movies with a real meaning.<br /><br />And this is the point, why I dislike this movie. It doesn't have any meaning. It's just a combination of funny, stupid, boring, entertaining, absurd a",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9643,
+      "length": 789,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4004,
+      "model": "Logistic Regression",
+      "review": "I love special effects and witnessing new technologies that make science fiction seem real. The special effects of this movie are very good. I have seen most of this movie, since it's been airing on HBO for the past couple of months. I must admit, I MAY have missed a few scenes, but I'm usually drawn into movies, and have seen some scenes more than once. But every time I see some of \"Hollow Man,\" ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9625,
+      "length": 801,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 460,
+      "model": "Logistic Regression",
+      "review": "I cannot understand the need to jump backwards and forwards to scene set, and pad out the plot. Showing that someone has a skill right before they use it, I believe, is offending our intelligence. It's starting to feel a little contrived, and as though they are making up for being so vague for the first three series. A little disappointing this episode.<br /><br />Furthermore, using past quirks, l",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9623,
+      "length": 593,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5534,
+      "model": "Logistic Regression",
+      "review": "I generally love these 1930 mystery/police Charlie Chan type of movies, and this is no exception. However, something seems bad with this movie. A late attempt to switch from cerebral Moto movies centered around the plot contrivances to a salad bar spoilt by comedy relief that is as relieving as sore feet. A typecast buffoon appears from nowhere impersonating a clumsy Englishman who plays the detec",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9623,
+      "length": 645,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9555,
+      "model": "Logistic Regression",
+      "review": "I do not see what is the whole deal about this movie. Patricia Kaas sings, yes, and that makes the film charming, but singing is not enough. I mean, if you want to get all benefits of this one, go buy Patricia's CD and enjoy! The plot is simple (if to omit the \"dreams\"); the main characters seem to love each other instantly, and as well instantly forget their other acquaintances. Relationships app",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9612,
+      "length": 711,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9893,
+      "model": "Logistic Regression",
+      "review": "Yes,the movie is not a piece of art but the first time I watched it I was 10 years old,my parents were out and I stayed home with my two brothers.It was May 1970(I know that because I found a note about the cycle of horror movies that one network had).It's one of the most vivid memories I have with the guys.We ended all in one bed and covered up to the head! Our very first horror movie! We kept ta",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9612,
+      "length": 679,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1034,
+      "model": "Logistic Regression",
+      "review": "These are excerpts from a nine-page \"Memo to Mr. Cohn from Mr. Welles\", written after Orson had seen studio mogul Harry Cohn's edited version of the picture (he took an hour out): <br /><br />\"...The preview title music was written by a first rate composer, George Antheil. Although not written for our picture at all, this temporary title music had an atmosphere of darkness and menace combined with",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9604,
+      "length": 3879,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8161,
+      "model": "Logistic Regression",
+      "review": "Robert Taylor definitely showed himself to be a fine dramatic actor in his role as a gun-slinging buffalo hunter in this 1956 western. It was one of the few times that Taylor would play a heavy in a film. Nonetheless, this picture was far from great as shortly after this, Taylor fled to television with the successful series The Detectives.<br /><br />Stuart Granger hid his British accent and turne",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9599,
+      "length": 1131,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2246,
+      "model": "Logistic Regression",
+      "review": "Lois Weber's film \"Hypocrites\" was and still kind of is a very bold and daring film. I enjoyed it and was very impressed by the filming and story of it. The priest sees the hypocrisy of the people in his church and tries to show them the \"naked\" truth. The people are appalled when he reveals the naked statue portraying truth, after failing to lead them to it and the few that did, help along the wa",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9589,
+      "length": 1683,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1622,
+      "model": "Logistic Regression",
+      "review": "With the plethora of repetitive and derivative sitcoms jamming fall, summer, winter and spring line-ups, it's nice to see a show that sets itself from the lot in more than one area. <br /><br />'Earl' takes an unusual approach. It's not about the \"daily musings of an eccentric family\" (zzzz..) nor about the other boring stuff you see everywhere in sitcoms. The show is about this small-time white t",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9588,
+      "length": 1780,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 5162,
+      "model": "Logistic Regression",
+      "review": "This is simply the funniest movie I've seen in a long time. The bad acting, bad script, bad scenery, bad costumes, bad camera work and bad special effects are so stupid that you find yourself reeling with laughter.<br /><br />So it's not gonna win an Oscar but if you've got beer and friends round then you can't go wrong.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9587,
+      "length": 322,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9615,
+      "model": "Logistic Regression",
+      "review": "Actually I liked this movie very, very much. Not because of it`s plot, acting, jokes, no. I liked it, because it`s one of the worse movies ever created. It`s so lame, so bad, that it becomes terribly funny. Some jokes are actually cool, but the rest makes me pray for unemployment for the scriptwriter. \"Men in white\" are so dumb and stupid, that you can do only two things. Turn the TV off or roll o",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9585,
+      "length": 468,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5580,
+      "model": "Logistic Regression",
+      "review": "It's rare, nowadays, to find a romantic comedy that isn't incredibly disgusting in short doses throughout the entire movie (eg. Big Fat Greek wedding; Me, Myself & Irene). There were only a couple of unnecessarily demented jokes in this movie, nothing unpalatably profane. All around, it was a cute movie with likable characters. I thought the ending was a little abrupt. It feels like they should ha",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9565,
+      "length": 863,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4042,
+      "model": "Logistic Regression",
+      "review": "The film, Heaven's Gate, was a good view, although still tedious at over 4 hours. But the film took great license - as usual with Hollywood. James Averill (Chris Christopherson), and \"Elle\" were actually married in real life. Their main contribution to the Johnson County war, was to start it by being hanged. Well, by starting it, I mean it came at the beginning, not the end. Here's the real scenar",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9541,
+      "length": 1926,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6675,
+      "model": "Logistic Regression",
+      "review": "When I began watching I thought I was watching some pro-Koresh amateur documentary. However, I had never seen 3/4 of the footage they used. They interviewed people saying that the FBI/ATF instigated all these things, which sounded so far fetched, but then followed in up with FBI video and testimony. I was amazed. The documentary followed up with the senate investigation after the fire, and after s",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9507,
+      "length": 692,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8003,
+      "model": "Logistic Regression",
+      "review": "I give the show a six because of the fact that the show was in fact a platform for Damon Wayans as the Cosby Show was for Bill Cosby, it dealt with a lot of issues with humor and I felt that it in fact tailored to getting a laugh as opposed to letting the jokes come from the character. <br /><br />Michael Kyle An interesting patriarch and a wisecracking person. He is PHENOMENAL in movies, but in t",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9506,
+      "length": 2171,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3539,
+      "model": "Logistic Regression",
+      "review": "It's not Citizen Kane, but it does deliver. Cleavage, and lots of it.<br /><br />Badly acted and directed, poorly scripted. Who cares? I didn't watch it for the dialog.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9495,
+      "length": 168,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9931,
+      "model": "Logistic Regression",
+      "review": "This is species already hatching into a beautiful model (Mathilda May). A smashing baby with an urge to kiss and kill!<br /><br />The movie begins with a strong launch, and infected by a bore-virus throughout the middle to end.<br /><br />The weakest spot is the presentation of the basic plot/story. As you should have compared it, Natasha Henstridge's Species got the same plot, but adds up much in",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9491,
+      "length": 708,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9502,
+      "model": "Logistic Regression",
+      "review": "Gordon goes over the top in typical Full Moon fashion, but that's to be expected. Combs is surprisingly low-key, keeping his performance at a more realistic level than we are used to seeing. Also gone is the usual Stuart Gordon 'tongue-in-cheek' black humor.<br /><br />The film is quite effective in showing Combs' break down and his final heroic act to save his wife & daughter. You actually feel s",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9479,
+      "length": 703,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7877,
+      "model": "Logistic Regression",
+      "review": "Before hitting international acclaim with The Silence of the Lambs, director Jonathan Demme cut his teeth making quirky comedies. This was one of them and like quite a few Oscar winning American comedies I could mention, it has a fine concept, is well paced, has great performances, a complicated romance. but it just simply isn't very funny. Pfeiffer is mob widow who moves to the city backwaters af",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9467,
+      "length": 1034,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 219,
+      "model": "Logistic Regression",
+      "review": "***SPOILERS*** ***SPOILERS*** From its very opening credits this fantastic movie sets the record straight: it's an instant classic. It doesn't take long to realize that this movie is big, bigger than `Kindergarten Cop' or `Police Academy 7.' The sheer greatness of it left me speechless as I walked out of the movie theater and proceeded right back to the ticket counter to purchase myself another do",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9462,
+      "length": 3000,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4946,
+      "model": "Logistic Regression",
+      "review": "This video guide was the masterpiece of the year 1995. Beautifully done! Matthew Perry and Jennifer Aniston have major on-screen chemistry when they talk about what the Start button does. I'm waiting for Microsoft to release a Special Edition DVD complete with deleted scenes, Bill Gates commentary, a documentary of how Windows 95 compares to Windows XP, and more!<br /><br />Overall: 10/10 (Should ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9459,
+      "length": 433,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3375,
+      "model": "Logistic Regression",
+      "review": "Crack House (1989) was one of the few film during the 80's that falls into this genre. What's supposed to be an anti-drug film turns out to be nothing more than some white-exploitation exercise in depravity. There's nothing wrong with that however. The video presentation even has an anti-drug message from one of the stars of the show Richard \"turncoat\" Roundtree,<br /><br />The movie follows two y",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9444,
+      "length": 1123,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8639,
+      "model": "Logistic Regression",
+      "review": "This is quite an entertaining B-flick in the Universal Horror series featuring Dracula, the Wolfman, and Frankenstein's Monster. The plot revolves around Dracula (John Carradine) and Larry Talbot, the wolfman (Lon Chaney Jr.), separately visiting a revolutionary doctor. They both ask him if they can be cured, and the doctor attempts to devise a way for each. Beneath the doctor's castle, they find ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9436,
+      "length": 1586,
+      "error_type": "False Negative"
+    }
+  ],
+  "RNN (LSTM)": [
+    {
+      "id": 1337,
+      "model": "RNN (LSTM)",
+      "review": "This flick is sterling example of the state of erotic B-movies: bad porn movies without the hardcore sex. The plot in this one isn't so bad as these things go; it involves a female lawyer trying to prove her lover is innocent of killing his wife. The rest of the movie, however, leaves something to be desired. Bad acting, bad direction, bad looking woman, bad sets, bad cinematography, bad sound and",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9963,
+      "length": 604,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4987,
+      "model": "RNN (LSTM)",
+      "review": "Yes, the cameras were in the right place at the right time. It's so interesting to see how a world leader (like Chavez) who supports the poor people in his country, can be held in such low esteem in the US. His worst \"sin\", in my opinion, is caring about those who are at the bottom of the barrel. What can be so bad about that? I have always been fascinated by the US government+media reaction to Fi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.994,
+      "length": 842,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9158,
+      "model": "RNN (LSTM)",
+      "review": "This movie is stuffed full of stock Horror movie goodies: chained lunatics, pre-meditated murder, a mad (vaguely lesbian) female scientist with an even madder father who wears a mask because of his horrible disfigurement, poisoning, spooky castles, werewolves (male and female), adultery, slain lovers, Tibetan mystics, the half-man/half-plant victim of some unnamed experiment, grave robbing, mind c",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9939,
+      "length": 2659,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7003,
+      "model": "RNN (LSTM)",
+      "review": "This low-budget erotic thriller that has some good points, but a lot more bad one. The plot revolves around a female lawyer trying to clear her lover who is accused of murdering his wife. Being a soft-core film, that entails her going undercover at a strip club and having sex with possible suspects. As plots go for this type of genre, not to bad. The script is okay, and the story makes enough sens",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9927,
+      "length": 2008,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3041,
+      "model": "RNN (LSTM)",
+      "review": "Honestly, I find this film almost too depressing for my own good. It is VERY depressing until pretty much the very end. There is no way I can justify passing judgement to any character who did things I didn't like (well, except for the disgusting character played by Fredrick Forrest). But it's still so frustrating to see people behaving this way, putting up walls around themselves when just a word",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9913,
+      "length": 2882,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5162,
+      "model": "RNN (LSTM)",
+      "review": "This is simply the funniest movie I've seen in a long time. The bad acting, bad script, bad scenery, bad costumes, bad camera work and bad special effects are so stupid that you find yourself reeling with laughter.<br /><br />So it's not gonna win an Oscar but if you've got beer and friends round then you can't go wrong.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.99,
+      "length": 322,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4338,
+      "model": "RNN (LSTM)",
+      "review": "I was really excited about seeing this film. I thought finally Australia had made a good film.. but I was wrong.<br /><br />This was the most pathetic attempt at a slasher film ever. I feel sorry for Molly Ringwald having to come all the way to Australia to make an awful movie.<br /><br />The acting was terrible (especially that Australian guy who was trying to speak in an American accent), and th",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9895,
+      "length": 977,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5422,
+      "model": "RNN (LSTM)",
+      "review": "I enjoyed the beautiful scenery in this movie the first time I saw it when I was 9 . Dunderklumpen is kind of cute for kiddies in a corny way. It reminded me of HRPUFFINSTUFF on sat mornings, Its Swedish backdrops make it easy on the eyes . Don't expect older kids to be interested as the live action/animation is way behind the times and most older kids will get bored.This is definitely an under 10",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9894,
+      "length": 487,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7709,
+      "model": "RNN (LSTM)",
+      "review": "This film got terrible reviews but because it was offbeat and because critics don't usually \"get\" offbeat films, I thought I'd give it a try. Unfortunately they were largely right in this instance.<br /><br />The film just has an awkward feel too it that is most off putting. The sort of feel that is impossible to describe, but it's not a good one. To further confound things, the script is a dull a",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9894,
+      "length": 1303,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9666,
+      "model": "RNN (LSTM)",
+      "review": "If you've ever wondered why they don't make porn with a plot, watch Dream Quest. On the one hand, you have to give the Armstrong credit both for making the effort to capitalize on this idea and for using such a strong adult cast to put some name power behind it. On the other hand, it also quickly becomes apparent why most porns never have more than 15 or 20 seconds of dialog connecting sex scenes ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9892,
+      "length": 742,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9615,
+      "model": "RNN (LSTM)",
+      "review": "Actually I liked this movie very, very much. Not because of it`s plot, acting, jokes, no. I liked it, because it`s one of the worse movies ever created. It`s so lame, so bad, that it becomes terribly funny. Some jokes are actually cool, but the rest makes me pray for unemployment for the scriptwriter. \"Men in white\" are so dumb and stupid, that you can do only two things. Turn the TV off or roll o",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9889,
+      "length": 468,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8670,
+      "model": "RNN (LSTM)",
+      "review": "Wow! All I can say is that if Elizabeth Montgomery is the enemy (she speaks Russian), then I'm surrendering right now. In her short skirt, high-top boots, and pronounced bust line, she's a real babe, even if her zombie-like eye-shadow sort of comes and goes. This 30 minutes is no doubt the sexiest of the series. Note the realistic and revealing wrestling match with Bronson until he ungallantly slu",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9884,
+      "length": 1858,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9249,
+      "model": "RNN (LSTM)",
+      "review": "\"House of Dracula\" isn't all that bad of a film and is rather decent at times.<br /><br />**SPOILERS**<br /><br />Arriving at the home of Dr. Franz Edelmann, (Onslow Stevens) in his seaside home, Count Dracula, (John Carradine) discreetly seeks a cure for vampirism. He starts work on a potential cure involving blood transfusion, the Wolf Man, Lawrence Talbot, (Lon Chaney Jr.) arrives at his estate",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9884,
+      "length": 3313,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3156,
+      "model": "RNN (LSTM)",
+      "review": "If, unlike some of the commenters here, you are not staging a class war and don't mind seeing the lives of other people who are fairly successful, extroverted, bohemian (gasp) and not being terribly English at a party and getting into all sorts of trouble as a result this is not a bad film, closer to Euro cinema rather than an imitation of the usual slick American crap... I believe the minimal sou",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9879,
+      "length": 981,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 104,
+      "model": "RNN (LSTM)",
+      "review": "Robot Jox tries hard, but is fundamentally a series of fight scenes strung together -- robot against robot, man against man, man against woman. The premise had potential, but it seems the script wasn't really given the couple of more drafts it needed. Still, it was fairly good, for a science fiction action movie. Part of it was because the script was by Joe Haldeman. For those who aren't familiar ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9871,
+      "length": 2004,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2423,
+      "model": "RNN (LSTM)",
+      "review": "Debbie Vickers (Nell Schofield) and Sue Knight (Jad Capelja) want to become one of the cool girls in their high school. Uncool and ugly girls had two options, be a mole or a prude! Debbie and Sue imitate them by using their cheating practices in an exam. Two of the cool boys, Garry (Goeff Rhoe) and Danny (Tony Hughes) ask them for their answers and they all get busted. After a bawling out from the",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9869,
+      "length": 1125,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5459,
+      "model": "RNN (LSTM)",
+      "review": "Maximum risk is quite surprising to a person that has seen more then on of his movies. Director Ringo Lam made an average action-movie, that can be compared with most of the other mid-quality action movies, what is a special predicate to a `Muscles from Brussels`movie. It has a quite classy style, an interesting atmosphere and, last but not least, the beautyful Natasha Henstridge. Even VanDamme do",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9862,
+      "length": 648,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6717,
+      "model": "RNN (LSTM)",
+      "review": "Ken Burns' \"Baseball\" is a decent documentary... it presents a clear origin of the game, a great depiction of baseball's early years and heroes. There's plenty in this movie for any baseball fan... that said, the film has several glaring flaws.<br /><br />18 hours is simply too long for the human attention span. It's clear that Burns stretched his film out to fit his \"nine inning\" concept. It's no",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.986,
+      "length": 2056,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2440,
+      "model": "RNN (LSTM)",
+      "review": "Ayone who whines about how this movie was crap or that it had no plot must have been looking for \"Jean de Florrette\". HELLO! this film was made to be a random act of comedy and in no way involves a plot in any way shape or form. I would also like to remind these whiners that if you are going to flay the crap out of this film that they seem to be missing the point. This film is clearly made for peo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9858,
+      "length": 700,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1646,
+      "model": "RNN (LSTM)",
+      "review": "*SPOILER ALERT: I wish I could discuss this without revealing specific plot points, but I can't. Sorry.*<br /><br />I was looking for an IMDb review of the George C. Scott movie when I stumbled across the summary and reviews for this version. It had so many positive reviews that I decided to order it even though: (a)while truncated and rushed, I thought George C. Scott embodied the tortured nature",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9854,
+      "length": 4028,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6459,
+      "model": "RNN (LSTM)",
+      "review": "You know you're watching softcore with the wrong attitude when the poor dubbing bothers you. I'm okay with the crappy lip syncing but the sound mix is really of too. Every time someone says anything it sounds like there's a narrator. Either way, this is pretty much the purgatory between boring French professionalism and the heavenly campy Joe D'Amato flicks involving cannibalism and whatnot. Don't",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.985,
+      "length": 1040,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6675,
+      "model": "RNN (LSTM)",
+      "review": "When I began watching I thought I was watching some pro-Koresh amateur documentary. However, I had never seen 3/4 of the footage they used. They interviewed people saying that the FBI/ATF instigated all these things, which sounded so far fetched, but then followed in up with FBI video and testimony. I was amazed. The documentary followed up with the senate investigation after the fire, and after s",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.985,
+      "length": 692,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2003,
+      "model": "RNN (LSTM)",
+      "review": "Mighty Like A Moose is one of many short films Director Leo McCarey did starring Charley Chase. What a dandy it is! Charlie and his wife both undergo plastic surgery to improve their hideous appearances unbeknown-est to each other. They then meet at a party and become smitten with each other. Now they can't allow each other to find out they're cheating. That's the preposterous premise of this fran",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9848,
+      "length": 1213,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8560,
+      "model": "RNN (LSTM)",
+      "review": "Forget everything that you have ever read about the Mallachi Brothers' straight-to-video release \"Snakes on a Train,\" especially if it was a negative review. This movie is way more fun than the movie that it obviously rips off: \"Snakes on a Plane.\" Frankly, I am surprised that more people aren't rhapsodizing about this low-budget Asylum Release. Instead, most reviews that I've read have nothing ki",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9847,
+      "length": 4046,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6274,
+      "model": "RNN (LSTM)",
+      "review": "Why does the poster & artwork say \"Clubbed is one of the best UK indie films I have seen in a very long time. SCREEN INTERNATIONAL\" when it was a quote of the French distributor REPORTED by Screen International (an influential film trade publication). See www.screendaily.com/ScreenDailyArticle.aspx?intStoryID=39811 which reads:<br /><br />\"Pretty Pictures has acquired all French-speaking rights to",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9845,
+      "length": 668,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2128,
+      "model": "RNN (LSTM)",
+      "review": "Okay, here's the deal. There's this American pilot who's flying along, minding his own business, when suddenly he's outnumbered by evil, cowardly non-American fighter planes (they're Middle Eastern types, but suffice to say they don't like apple pie or Elvis Presley), who proceed to shoot him down. Now this American pilot was doing nothing wrong, but those evil non-Americans didn't care and before",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9836,
+      "length": 2461,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4661,
+      "model": "RNN (LSTM)",
+      "review": "Chris Rock stars in this remake of Warren Beatty's Heaven Can Wait (itself a remake of the 1941 film Here Comes Mr. Jordan), a comedy about a man who dies before his time, before he can realize his dreams, and his adventures in his new (albeit temporary) body. In the Beatty version, the protagonist was a backup quarterback for the then-Los Angeles Rams. In Rock's hipper version, our lead character",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9834,
+      "length": 2486,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8505,
+      "model": "RNN (LSTM)",
+      "review": "Well, This was my first IMAX experience so I was pretty blown away about that, primarily; although with hindsight, I can't help wishing that it had been some other (less monochrome)film.<br /><br />Magnificent Desolation very much had the \"Programme for Schools\" feel the way it listed all the astronauts and this made it feel a LOT like reading National Geographic Magazine in 3D. Weirdly it actuall",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9834,
+      "length": 1358,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3053,
+      "model": "RNN (LSTM)",
+      "review": "OK...this one's a weirdy....Honestly, I can't tell you all the inner plot-points of THE BEAST, cuz I started losing interest when nothing happened during the first 45 or more minutes - but just wait, it definitely does \"pick up\"...<br /><br />The plot involves something about a monster in the woods that some French aristocrat chick screwed back in the day. Eventually you see \"THE BEAST\", which loo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9831,
+      "length": 2545,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 817,
+      "model": "RNN (LSTM)",
+      "review": "About 12 minutes into the song, in the scene where Daryl Hannah and JFK Jr are first embracing, there is a really pretty song playing...what is that song?! And, who is it sung by? It's a song that sounds very romantic and it is a female singer, piano playing, etc. I have tried everything in the world to look up the music on Google and on iTunes, etc., but it just doesn't come up, not even on Lyric",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.983,
+      "length": 650,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6502,
+      "model": "RNN (LSTM)",
+      "review": "If Daphne Du Maurier had set REBECCA in 1950s San Francisco, it might very well resemble this uptight, highly unusual noir from Robert Wise. Valentina Cortese plays a concentration camp survivor who steals the identity of a dead woman and insinuates herself into the life of Richard Basehart (who happens also to be the guardian of the dead woman's son)...it's absurd and over-the-top but also topfli",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.983,
+      "length": 846,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 905,
+      "model": "RNN (LSTM)",
+      "review": "It was only the second year of the Academy but already they were voting politically - Jeanne Eagels' brilliant performance in this creaky early talkie had to make do with an Oscar nom and the statuette went to the worst performance ever to win - Mary Pickford's in COQUETTE. The only existing print was a work print without music or final editing, but wherever it's shown, Eagels stuns and captivates",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9827,
+      "length": 1157,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 871,
+      "model": "RNN (LSTM)",
+      "review": "I wouldn't say this is a bad movie; in fact it's pretty typical of the type of film that the \"poverty row\" studios were releasing at the time. Filmed for Monogram, Bela Lugosi is very effective in his role as the somewhat demented doctor-scientist, masquerading as a respected member of the community. In this movie, Bela and his henchmen have the nasty habit of stealing young brides, and, after the",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9821,
+      "length": 1169,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 5202,
+      "model": "RNN (LSTM)",
+      "review": "Forget Neo and Bourne and all those half-baked made up modern heroes. They only look 12 year-oldish to please the wide audience of geeks that want to be their heroes. Since they cannot be Rambo or McClane or even Indiana Jones, Hollywood allowed a bunch of fakes that have no beard and yet fulfill teenagers wishes to see something that looks very much like an action flick.<br /><br />However, their",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9819,
+      "length": 1716,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 270,
+      "model": "RNN (LSTM)",
+      "review": "This film was made in Saskatchewan and Manitoba Parks and returned the world eye again to what little of the \"Wild Western Canada\" is left. When Archie began to write his stories for the papers; the thought of the day was to tame the wilderness and convert/absorb the First Nation Peoples.<br /><br />The film puts forward and asks the question; why would a well-educated, obviously talented Englishm",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9817,
+      "length": 1682,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2730,
+      "model": "RNN (LSTM)",
+      "review": "Working with one of the best Shakespeare sources, this film manages to be creditable to it's source, whilst still appealing to a wider audience.<br /><br />Branagh steals the film from under Fishburne's nose, and there's a talented cast on good form.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9817,
+      "length": 250,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4696,
+      "model": "RNN (LSTM)",
+      "review": "\"Let's Bowl\" started out on local television in the Twin Cities. It came on late at night, something you'd stumble across while channel surfing after your 7th bottle of Hamm's.<br /><br />Even the ads were locally produced, featuring Wally outside Grumpy's Bar, holding a microphone and stammering nervously -- \"Ahh...over to you, Steve Sedahl.\" Not sure why, but that one always made me laugh.<br />",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9816,
+      "length": 2271,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8161,
+      "model": "RNN (LSTM)",
+      "review": "Robert Taylor definitely showed himself to be a fine dramatic actor in his role as a gun-slinging buffalo hunter in this 1956 western. It was one of the few times that Taylor would play a heavy in a film. Nonetheless, this picture was far from great as shortly after this, Taylor fled to television with the successful series The Detectives.<br /><br />Stuart Granger hid his British accent and turne",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9813,
+      "length": 1131,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 5534,
+      "model": "RNN (LSTM)",
+      "review": "I generally love these 1930 mystery/police Charlie Chan type of movies, and this is no exception. However, something seems bad with this movie. A late attempt to switch from cerebral Moto movies centered around the plot contrivances to a salad bar spoilt by comedy relief that is as relieving as sore feet. A typecast buffoon appears from nowhere impersonating a clumsy Englishman who plays the detec",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9811,
+      "length": 645,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6899,
+      "model": "RNN (LSTM)",
+      "review": "OK, this movie is stupid. I mean that in a good way though.It was stupid on purpose, and was one of the better \"stupid\" movies I've seen. The jokes and gags are purposefully bad, but delivered in a way that it struck all the right notes with me. The supporting characters were pretty shallow and mediocre. There is a pretty weak plot, but it works just fine.<br /><br />Elvira's character is the focu",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.981,
+      "length": 918,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 8028,
+      "model": "RNN (LSTM)",
+      "review": "Flat out the funniest spoof of pretentious art house films ever made.<br /><br />This flick exposes all the clich\u00e9s, and then some! Excruciatingly bad (Downs-Syndrome!) actors. Terribly heavy self important dialog. Scenes that are supposed to shock but fall flat. Jarring editing. Pointless plot points. All wrapped up in a kind of smirky miasma of disrespect for the audience and vague psych-drivel.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.981,
+      "length": 968,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1017,
+      "model": "RNN (LSTM)",
+      "review": "I haven't seen any other films by Antonioni and the people that saw this one with me agreed that it shares themes and imagery with the rest of his works. Maybe if I had seen other stuff by him I would have enjoyed this one, knowing what to expect. <br /><br />I saw it as an almost complete failure for so many reasons. First of all, the film introduces interesting, deep issues about social relation",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9809,
+      "length": 1391,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1354,
+      "model": "RNN (LSTM)",
+      "review": "after seeing this film for the 3rd time now i think it is almost Adam's worst film PUNCH DRUNK LOVE IS POOR in comparison to this i must say at the end when Dickie gets thrown of the boat it is so funny (the hair is different to his and i like it when he flips everyone off. This film should only be brought if your a true Adam Sandler fan.<br /><br />the characters are poor in comparison to his fun",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9807,
+      "length": 630,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7877,
+      "model": "RNN (LSTM)",
+      "review": "Before hitting international acclaim with The Silence of the Lambs, director Jonathan Demme cut his teeth making quirky comedies. This was one of them and like quite a few Oscar winning American comedies I could mention, it has a fine concept, is well paced, has great performances, a complicated romance. but it just simply isn't very funny. Pfeiffer is mob widow who moves to the city backwaters af",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9807,
+      "length": 1034,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9955,
+      "model": "RNN (LSTM)",
+      "review": "normally i'm not the sort to be scared by horror movies, but this movie is the exception. some how this movie got into my mind!!! it is a very simple movie but at the same time extremelly effective, it has great atmosphere and this leads to some shocking moments, the girls father coming down the hill is a real standout. Another seen was the family photo i wasn't expecting that and i jumped out my ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9806,
+      "length": 516,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1396,
+      "model": "RNN (LSTM)",
+      "review": "Others' main criticism of this film--namely that Macy suddenly looks Jewish upon donning his glasses--is misplaced. The glasses are just the little bit of change needed to CONVINCE others he's a Jew. The scene in which he says to his boss, (paraphrasing) \"but you KNOW what my background is,\" along with another discussion with his mother, suggests that he's had to fight this same assumption in the ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9803,
+      "length": 1103,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2951,
+      "model": "RNN (LSTM)",
+      "review": "Voor een verloren soldaat , for a lost soldier, is a sad example of how not to translate to film a touching, complex psychological study, of that most magical time in a man's life, when he is still a child, but starting to become a man. The novel records the real life experiences of Rudy van Dantzig, as told thru the boy Jeroen, during the waning days of WWII at age 11 as he deals with his incipie",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9798,
+      "length": 1889,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2105,
+      "model": "RNN (LSTM)",
+      "review": "I remember this film as the other person that commented said. I recorded over it but wish I had it now just because it had to be one of the worst movies ever. Funny, in a real bad way. I remember the tag line on the box was \"The ultimate frontal lobotomy\". I got it from my mom, who got it from a friend at work who said it was the worst / cheesiest movie she had ever seen, so my mom said \"My son wi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9792,
+      "length": 1101,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2600,
+      "model": "RNN (LSTM)",
+      "review": "I really liked this quirky movie. The characters are not the bland beautiful people that show up in so many movies and on TV. It has a realistic edge, with a captivating story line. The main title sequence alone makes this movie fun to watch.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9789,
+      "length": 242,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 5974,
+      "model": "RNN (LSTM)",
+      "review": "I had such high hopes for Teletoon Retro to air this but instead of having shows such as this, ones that don't get the treatment that they deserve, they air things that I may have seen dozens of times before.<br /><br />The Centurions was the highlight of my pre-teen years. I know that may seem a little bit clich\u00e9d but it's true. After Duke from G.I. Joe, Jake Rockewell is another one of those car",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9787,
+      "length": 604,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4495,
+      "model": "RNN (LSTM)",
+      "review": "The Brave One is about a New York radio show host named Erica Bain (Jodie Foster). Her life is a dream living in the city she grew up in and loves. She has her great fianc\u00e9 David (Naveen Andrews), whom she is planning to marry. But one night while Erica and David are out walking their dog, they are attacked and mugged by a group of degenerates, leaving David dead. Erica recovers but is heartbroken",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9784,
+      "length": 4164,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9348,
+      "model": "RNN (LSTM)",
+      "review": "I remember watching the BSG pilot. I can describe that night exactly. I remember what chair I sat in. That show was magic. It came alive. I enjoyed the first two years of BSG. I enjoyed parts of the third year even, and I watched every episode of the fourth year, totally faithfully in great hopes that it would somehow turn around. Well, it didn't.<br /><br />I watched the Caprica pilot and was ent",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9781,
+      "length": 1184,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4946,
+      "model": "RNN (LSTM)",
+      "review": "This video guide was the masterpiece of the year 1995. Beautifully done! Matthew Perry and Jennifer Aniston have major on-screen chemistry when they talk about what the Start button does. I'm waiting for Microsoft to release a Special Edition DVD complete with deleted scenes, Bill Gates commentary, a documentary of how Windows 95 compares to Windows XP, and more!<br /><br />Overall: 10/10 (Should ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.978,
+      "length": 433,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7040,
+      "model": "RNN (LSTM)",
+      "review": "The movie was a pleasure to watch if you are a fan of the Stooges. The story is told from the point of view of Moe Howard and his relationships with his brothers Shemp and Jerome (Curly) Howard, also the life long friendship with Larry Fine. The movie deals mostly with the off camera high points and pit falls of the Stooges multi decade career. The casting director and makeup artist did a fair job",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9775,
+      "length": 614,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 7308,
+      "model": "RNN (LSTM)",
+      "review": "Toy Soldiers is an okay action movie but what really stands out is the amount of effort that the scriptwriters and director put into portraying American counter-terrorist forces accurately. Just check out the end credits--there are more than a dozen US military officers and officials listed. The movie accurately portrays the FBI as having control of the hostage situation but turning it over the US",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9765,
+      "length": 890,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 6644,
+      "model": "RNN (LSTM)",
+      "review": "We don't know if Darlene loves all three gentleman, certainly they are wary of one another, yet they live together. Viewers might surmise that the feelings of rivalry between the gentleman and the feelings of all of them toward Darlene might make for an unbearable home life.<br /><br />In the eerily beautiful rural Brazilian landscape (emphasized by the frequent use of polarization and the use of ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9764,
+      "length": 1252,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 9485,
+      "model": "RNN (LSTM)",
+      "review": "This movie would had worked much better if this was the first Critters movie, this is a low-budget movie with only two (2) Critters shown on-screen. Why this looks like a fail is because this is the last Critters movie and it's so low-budget that it seems the director made the whole movie with his own pocket money. However, I did like this movie, I compare it mostly with the third movie (which wer",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.976,
+      "length": 1353,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 7639,
+      "model": "RNN (LSTM)",
+      "review": "*Could contain spoilers, read only after seeing last episode season 2* Think about it. The guys on the north pole? Center of the earth? Looking for abnormal magnetic behavior? They also said something about: \"did we miss it again?\" So there was another abnormality? Of course that was when the plain crashed! I think this whole Island is a setup. Set up by her daddy. She found out about it and is lo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9759,
+      "length": 1495,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 9502,
+      "model": "RNN (LSTM)",
+      "review": "Gordon goes over the top in typical Full Moon fashion, but that's to be expected. Combs is surprisingly low-key, keeping his performance at a more realistic level than we are used to seeing. Also gone is the usual Stuart Gordon 'tongue-in-cheek' black humor.<br /><br />The film is quite effective in showing Combs' break down and his final heroic act to save his wife & daughter. You actually feel s",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9759,
+      "length": 703,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 6533,
+      "model": "RNN (LSTM)",
+      "review": "There's a legion of Mick Garris haters out there who feel he couldn't direct a horror film of quality if he had to. And, SLEEPWALKERS(..screenplay written by Stephen King)is often used as an example of this. I like SLEEPWALKERS, though I fully am aware that Garris just says F#ck it and lets all hell break loose about fifteen or so minutes into the movie. Forget character or plot development, who n",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9758,
+      "length": 3698,
+      "error_type": "False Negative"
+    }
+  ],
+  "DistilBERT": [
+    {
+      "id": 1337,
+      "model": "DistilBERT",
+      "review": "This flick is sterling example of the state of erotic B-movies: bad porn movies without the hardcore sex. The plot in this one isn't so bad as these things go; it involves a female lawyer trying to prove her lover is innocent of killing his wife. The rest of the movie, however, leaves something to be desired. Bad acting, bad direction, bad looking woman, bad sets, bad cinematography, bad sound and",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.997,
+      "length": 604,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2812,
+      "model": "DistilBERT",
+      "review": "This movie started slowly, then gained momentum towards the middle. However, the fact that the movie ran over two nights broke that momentum at its peak. The second part really got interesting, but then gave way to a simply pathetic ending. Playing football in the yard? Really, could it get any more sappy and maudlin? Now I hear plans for a similar movie based on the '70s. I won't make any great e",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9969,
+      "length": 462,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4338,
+      "model": "DistilBERT",
+      "review": "I was really excited about seeing this film. I thought finally Australia had made a good film.. but I was wrong.<br /><br />This was the most pathetic attempt at a slasher film ever. I feel sorry for Molly Ringwald having to come all the way to Australia to make an awful movie.<br /><br />The acting was terrible (especially that Australian guy who was trying to speak in an American accent), and th",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9968,
+      "length": 977,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2227,
+      "model": "DistilBERT",
+      "review": "Sure it was well shot and made, very well shot and made! But the story was just so weak. And the portrayal of Lincoln was even weaker. Not that Henry Fonda wasn't good but the character he played was nothing but a loon. Do you mean to tell me that Lincoln was a wise cracking smart ass with no respect of the law or the court. I mean who the hell was he supposed to be? Cousin Vinnie? I mean come on,",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9966,
+      "length": 1333,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4963,
+      "model": "DistilBERT",
+      "review": "Nobody truly understands the logic behind the numbering of Italian zombie-flicks, but \u0096 honestly \u0096 why would we bother? Every single film in the Zombi-\"series\" delivers great fun, nasty gore and gratuitous shocks and \"Zombi 3\" is no exception to this, despite all the production difficulties that occurred whilst shooting. This film began as an interesting Lucio Fulci project, who had to elaborate f",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9965,
+      "length": 1963,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1229,
+      "model": "DistilBERT",
+      "review": "My wife and I rented this movie because some people had drawn parallels between it and \"Office Space\". Blockbuster and IMDB even had it as an \"also recommended\" selection if you liked \"Office Space\".<br /><br />Now, I've seen Office Space probably 15 or 20 times. I love it. It's probably one of my 10 favorite movies. Witty, humorous, and featuring characters that remind me of people I've worked wi",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9955,
+      "length": 1405,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4264,
+      "model": "DistilBERT",
+      "review": "I hate reading reviews that say something like, 'Don't waste your time, this film stinks on ice.' It does to that reviewer yet for me, it may have some sort of na\u00efve charm. If you like the other 'Whistler' series films, this one will be watchable. If you like 40s noirish films, this one will be watchable.<br /><br />This film is not as good, in my opinion, as any of the earlier series entries whic",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9955,
+      "length": 1374,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3861,
+      "model": "DistilBERT",
+      "review": "*The whereabouts of Al Capone<br /><br />*Who shot JFK?<br /><br />*Cynthia Gibb lands the part of \"Gypsy\" in the TV remake<br /><br />These are some of the great unsolved mysteries of the 20th century. How else can I say it, except, I thought she was unredeemingly awful. Mannequin mannerisms, poor reactionary acting (ie: that blank, stoic stare while he co-star in the scene speaks)and a singing v",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9954,
+      "length": 1276,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 477,
+      "model": "DistilBERT",
+      "review": "First of all , you should watch this only if you don't mind the lack of subtitles , pornography , kinky sex and utter , horrifying and truly shocking depravity . I mentioned kinky sex , but to call sex in the second half of the movie \" kinky \" would be a great understatement . It's more like a punch in the face if you aren't prepared for this sort of sickness . That being said , I can go back to r",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9953,
+      "length": 2443,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1989,
+      "model": "DistilBERT",
+      "review": "The problem with the 1985 version of this movie is simple; Indiana Jones was so closely modeled after Alan Quartermain (or at least is an Alan Quartermain TYPE of character), that the '85 director made the mistake of plundering the IJ movies for dialog and story far too deeply. What you got as a finished product was a jumbled mess of the name Alan Quartermain, in an uneven hodge podge of a cheaply",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9952,
+      "length": 2091,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2246,
+      "model": "DistilBERT",
+      "review": "Lois Weber's film \"Hypocrites\" was and still kind of is a very bold and daring film. I enjoyed it and was very impressed by the filming and story of it. The priest sees the hypocrisy of the people in his church and tries to show them the \"naked\" truth. The people are appalled when he reveals the naked statue portraying truth, after failing to lead them to it and the few that did, help along the wa",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9952,
+      "length": 1683,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2105,
+      "model": "DistilBERT",
+      "review": "I remember this film as the other person that commented said. I recorded over it but wish I had it now just because it had to be one of the worst movies ever. Funny, in a real bad way. I remember the tag line on the box was \"The ultimate frontal lobotomy\". I got it from my mom, who got it from a friend at work who said it was the worst / cheesiest movie she had ever seen, so my mom said \"My son wi",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9948,
+      "length": 1101,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1338,
+      "model": "DistilBERT",
+      "review": "While this outing certainly doesn't live up to its predecessor, it does have more than its share of memorable moments. My personal favorite, just after laying waste to a city block with his \"Videodisc Cannon,\" we see a close up of Nimoy's face. As a single tear sheds from his left eye, we know at that point that Nimoy is more than just a killing machine. The viewer can't help but be pulled into hi",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9946,
+      "length": 735,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2600,
+      "model": "DistilBERT",
+      "review": "I really liked this quirky movie. The characters are not the bland beautiful people that show up in so many movies and on TV. It has a realistic edge, with a captivating story line. The main title sequence alone makes this movie fun to watch.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9946,
+      "length": 242,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2104,
+      "model": "DistilBERT",
+      "review": "What can I say about this film that won't give you any preconceived notions when you see it? Very little. The plot has to do with the return from hospital of a teenage girl after she broke down. What follows after that is the movie. It is one of the creepiest most mind blowing films of the past several years. Everything about the film is just slightly off center and leaves you feeling ill at ease ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9944,
+      "length": 1031,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2670,
+      "model": "DistilBERT",
+      "review": "A lawyer is drawn into a deadly game of cat and mouse when he becomes involved with a femme fatale in this adaptation of a Grisham novel. Altman creates a suspenseful, Gothic atmosphere but the script is weak. Sporting a Southern drawl, Branagh is convincing as the lawyer, and Davidtz is alluring as the object of his desire. Downey is likable as a private detective. Duvall has a small role, which ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9944,
+      "length": 640,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 632,
+      "model": "DistilBERT",
+      "review": "I saw this film on its release, and have watched it 3 or 4 more times, including last week. I regret I have to be a voice of dissension with regard to Mr. Branagh's performance.<br /><br />This is really a glorious, sumptuous film, to say nothing of ambitious at over 4 hours long - beautifully shot and designed. Derek Jacobi, Julie Christie, Kate Winslet, Richard Briers, and many others do fine jo",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9942,
+      "length": 2676,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2300,
+      "model": "DistilBERT",
+      "review": "Technically abominable (with audible \"pops\" between scenes)and awesomely amateurish, \"Flesh\" requires a lot of patience to sit through and will probably turn off most viewers; but the dialogue rings amazingly true and Joe Dallesandro, who exposes his body in almost every scene, also gives an utterly convincing performance. A curio, to be sure, but the more polished \"Trash\", made two years later, i",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9942,
+      "length": 467,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 4713,
+      "model": "DistilBERT",
+      "review": "My buddies and I spent the majority of a Saturday afternoon watching a selection of \"bad\" movies. Among the flicks we watched, the strongest contender (for quality bad-movie fare) was easily Jack-O. It's ludicrous that movies such as \"Gigli\", \"Glitter\" and \"You Got Served\" are listed in IMDBs bottom 100. While they're certainly bad movies, they don't belong in the bottom 100. They're robbing \"Jack",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9942,
+      "length": 2450,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 340,
+      "model": "DistilBERT",
+      "review": "A ham actor without a penny. Who better than Michael Caine to play such a character? He is totally and utterly hilarious but, as in most of Caine's performances, he goes for it for real. The film seems to be a showcase of Dylan Moran and he's splendiferous in his double act with Caine. This, however, is where the script falters. Moran's impersonations should have been incorporated in a rather more",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.994,
+      "length": 621,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3394,
+      "model": "DistilBERT",
+      "review": "Death Wish 3 is exactly what a bad movie should be. Terrible acting! Implausible scenerios! Ridiculous death scenes! Creepy, evil-for-no-reason villains! The last 30 minutes of this movie just might be the best 30 minutes ever put on film, especially in the scene where the decent, hardworking citizens string chains across the street, knocking down the evil bikers and then shoot them, only to be jo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9939,
+      "length": 1915,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3723,
+      "model": "DistilBERT",
+      "review": "This is the second Hitchcock film to appear on the list and the second Hitchcock film I've seen in full, the first was Rope, which I really enjoyed. With Saboteur Hitchcock was more room to roam free, whereas Rope took place all in one room. I didn't enjoy this one as much as Rope but that's not saying this is a bad film, it just seems like an average flick that could have been something more.<br ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9939,
+      "length": 1804,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2259,
+      "model": "DistilBERT",
+      "review": "Johnny Dangerously falls completely in the hit or miss category with it's overblown gags and complete lack of a comprehensive script or story that makes ANY sense. But that's the point, right?<br /><br />The cast is likable; Michael Keaton an excellent comic performer before he took himself too seriously as the years passed. Griffin Dunne, Peter Boyle, Joe Piscopo, Marilu Henner and Danny DeVito a",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9937,
+      "length": 1011,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3026,
+      "model": "DistilBERT",
+      "review": "I have no idea why everyone hates this movie to call it garbage a travesty an unexceptable sequel is just unfair i mean what else could they have made for a sequel then. Cause seriously I think it should have had a sequel (Rodney Dangerfield) says: hey everyone were all going to get laid and then a little dancing goffer and thats it thats the end of Caddyshack even though the film rating on first ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9937,
+      "length": 484,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 924,
+      "model": "DistilBERT",
+      "review": "Just listen to the Broadway cast album and to the voices of Barbara Harris and John Cullum, who do wonders for the wonderful Lerner and Lane score. Then, with that beautiful cast recording fresh in mind, watch the movie, with Streisand as Streisand, and Yves Montand reading his lines with such a heavy French accent that a chain saw couldn't cut through it. The best part (for those who need somethi",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9934,
+      "length": 917,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2730,
+      "model": "DistilBERT",
+      "review": "Working with one of the best Shakespeare sources, this film manages to be creditable to it's source, whilst still appealing to a wider audience.<br /><br />Branagh steals the film from under Fishburne's nose, and there's a talented cast on good form.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9934,
+      "length": 250,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2640,
+      "model": "DistilBERT",
+      "review": "OK... this movie so far has been slated by critics and board-posters alike (although playing devil's advocate you could suggest that critics are often people who didn't make it for themselves as film-makers, and board posters are often people who didn't make it for themselves as critics) so I wanted to sit in Guy's corner with the magic sponge to perhaps reach maybe a couple of the people who've d",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9933,
+      "length": 3045,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4038,
+      "model": "DistilBERT",
+      "review": "If they gave out awards for the most depraved and messed-up movies in the world, Japanese cinema would clean up: their exploitation cinema wipes the floor with most other contenders, the most extreme examples being absolutely jaw-dropping exercises in bad taste, nauseating gore, freakish weirdness, and misogynistic sex.<br /><br />Guts of a Beauty is a prime example of such whacked out filth, offe",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9932,
+      "length": 2731,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2722,
+      "model": "DistilBERT",
+      "review": "(This is a review of the later English release by Disney, featuring Alison Lohman, Patrick Stewart, and co.) <br /><br />I really wanted this film to be good. Really, really. I'm a huge fan of Princess Mononoke and Spirited Away, and after seeing all the glowing reviews on this earlier Miyazaki film, I was eager to see it. But I was shocked, shocked I say, at the quality of this film. Those later ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.993,
+      "length": 2388,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1818,
+      "model": "DistilBERT",
+      "review": "Not exactly a new story line, but this romantic comedy makes the concept work. A young man(John Cusack) and a drop dead gorgeous woman(Kate Beckinsale)keep meeting by chance and wonder if they are meant for each other. Although both are promised to others...oddly enough they still feel that their soul mate is out there somewhere. A little sappy in some places, but viva la love. Being a romantic I ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9927,
+      "length": 863,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3057,
+      "model": "DistilBERT",
+      "review": "I really liked this movie. Number 5, the star robot of the movie gets hit by lightning and some thing happened to his circuits. He act and thinks more like a human.The robot repeats commercials he learns after watching TV. He then applies these sayings to his circumstances. Number 5 is quick witted and funny. The character imitates voices of stars, tries to dance like John Travolta in Staying Aliv",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9927,
+      "length": 1217,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2364,
+      "model": "DistilBERT",
+      "review": "Another double noir on one disc from Warner Home Video and by far the better of the two movies is RKO's marvellous 1950 thriller \"Where Danger Loves\". This is a memorable classic with a great cast in Robert Mitchum, Faith Domergue and Claude Rains. Crisply photographed in Black & White by Nicholas Musuraca it was tightly directed by John Farrow. \"Where Danger Lives\" is a prime example of the noir ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9924,
+      "length": 2640,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1159,
+      "model": "DistilBERT",
+      "review": "Quote: theurgist: Anyone with an I.Q. over 50 would have seen this film what it is, an intelligent well acted prequel to a modern day classic, yes it doesn't have a blockbuster cast or a huge budget BUT it is still very well done and had me hooked for the full duration.<br /><br />An I.Q. over 50 you say.. that most mean you have an I.Q. lower than 50.. its name is CARLITOS WAY: Rise to power !!! ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9922,
+      "length": 753,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1383,
+      "model": "DistilBERT",
+      "review": "it's the best film that takes the first place at the sickest and an useful films ever made in this poor country. really u people even don't know what the word cinema means and u cast votes for movies, i'm really curious to know how many movies of P.P.P. or L.Bunuel have u seen. The score of this \"faield experiment\" it reflects a lot of u're way of understanding things and to recognize a good/quali",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9922,
+      "length": 891,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2627,
+      "model": "DistilBERT",
+      "review": "When I first heard of this movie, I was mildly interested. The plot seemed like an opportunity for hilarity and Bam Margera as an actor and director seemed like something that might be good. When I found out the movie starred Ryan Dunn, I was even further interested (I was a fan of Homewrecker when it was on... Yeah, I'm that lame). However, I didn't have much faith in it being to good. When I sat",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9921,
+      "length": 1162,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4502,
+      "model": "DistilBERT",
+      "review": "One Night at McCool's is one of those films that starts with an awful amount of promise but as the film goes on it becomes silly and loses it's way big time. Liv Tyler plays a manipulative woman who tries to get her own way by flaunting her body to every man she meets ,all of which fall under her spell.There are a few funny moments in this but they get fewer and fewer as the film deteriorates into",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.992,
+      "length": 722,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4946,
+      "model": "DistilBERT",
+      "review": "This video guide was the masterpiece of the year 1995. Beautifully done! Matthew Perry and Jennifer Aniston have major on-screen chemistry when they talk about what the Start button does. I'm waiting for Microsoft to release a Special Edition DVD complete with deleted scenes, Bill Gates commentary, a documentary of how Windows 95 compares to Windows XP, and more!<br /><br />Overall: 10/10 (Should ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.992,
+      "length": 433,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 157,
+      "model": "DistilBERT",
+      "review": "The subject matter of this film is potentially depressing: a man about thirty, with no job, little education, three kids from a failed relationship, living in his parents' house, but with a dream of directing feature films. But about a half-hour into the movie you realize that Mark Borchardt has a bottomless supply of drive and ambition--it's just that it's all channeled into his need to direct mo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9917,
+      "length": 647,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 560,
+      "model": "DistilBERT",
+      "review": "Plot is never the strong point of a Fred Astaire and Ginger Rogers movie, but \"Follow the Fleet\"'s screenplay is exceptionally mediocre. Fred and Ginger still come off all right--they play \"Bake\" Baker and Sherry Martin, dancers whose personal and professional partnership ended when Bake joined the Navy. When they meet again, their love-hate relationship generates some entertaining comic moments. ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9916,
+      "length": 2233,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3224,
+      "model": "DistilBERT",
+      "review": "Charles Bronson stars as Lt Crowe a police detective who declares war on a pimp named Duke (Juan Fernandez) who kidnaps the daughter of a Japanese businessman who is the man who sexually harassed Crowe's daughter (Amy Hathaway) in this sleazy yet stylishly helmed revenge thriller. Kinjite may not be for everyone with it's somewhat disturbing plot threads but it is well made and indeed entertaining",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9916,
+      "length": 401,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3665,
+      "model": "DistilBERT",
+      "review": "A young doctor and his wife are suddenly expecting a child. Both are disturbed about a two hour memory lapse on the night of conception. Interesting twist on an hackneyed story. Very good F/X and interesting editing. Jillian McWhirter is outstanding in a cast that features Arnold Vosloo, Wilford Brimley and Brad Dourif. Brimley brings normalcy to the outlandish. Kudos to director Brian Yuzna.",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9914,
+      "length": 395,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3037,
+      "model": "DistilBERT",
+      "review": "R Balki tries to tell you a story that had been earlier told by Ram Gopal Verma in Nishabd in a sensuous way. This time it is mixed with mature humors.<br /><br />Amitabh Bachchan is a Chef and owns an Indian Cuisine in London. He is very dominating and arrogant and respects his job just like any other job. According to him, Cooking is an art. Still cannot make Hyderabadi Biryani properly.<br /><b",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9912,
+      "length": 1506,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 1665,
+      "model": "DistilBERT",
+      "review": "One of his lesser known films, many horror fans have yet to catch this Dario Argento offering, which is unfortunate. It is underappreciated mostly because of the fact that really not enough people have seen it. The film boasts grade-A Argento gore, with his customary close-ups set to savage rock scores. While it true that this script is not very complex, it is not nearly as bad as other entries in",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9911,
+      "length": 600,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1459,
+      "model": "DistilBERT",
+      "review": "MINOR SPOILER<br /><br />Underrated little Stephen King shocker. It's not perfect, by any stretch of the imagination--even if the limp performances of Dale Midkiff and Denise Crosby were better, there'd still be the mismanaged mystical story elements to contend with. The old Micmac burial ground, Rachel's terminally ill sister, and the Jacob-Marley-an Victor Pascow never really come together into ",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9907,
+      "length": 1124,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2034,
+      "model": "DistilBERT",
+      "review": "Beautiful images, propaganda and history as toy. The ingredients of this film, good, interesting but with many shadows. Politicall shadows. Jefferson is more than the hero of a mythical America. He is silhouette of a vision about life and society, an extraordinary thinker, teacher of large part of North America. In film is only Superman. The delicate contour of ideas are crushed. The subtle birth ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9906,
+      "length": 1078,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3065,
+      "model": "DistilBERT",
+      "review": "This was a really funny movie.<br /><br />Every 1 in the movie was trying to be serious that is what made this movie so funny. I mean come on a shark's head on a human body. Can it get any funnier. Good job Sci-Fi keep the comedy movies coming. I never thought movies could get anymore retarded. If they keep it up they will have to rename the sci fie channel the comedy sci fi channel or something l",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9904,
+      "length": 603,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2934,
+      "model": "DistilBERT",
+      "review": "How much can you really say about a condom with teeth? The plot was really out there, but it was something campy to see on a Friday night. The story has a lot of unexpected twists, and it's a great way to offend all you're conservative friends!",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9903,
+      "length": 244,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 935,
+      "model": "DistilBERT",
+      "review": "Atlantis: The Lost Empire has some of the best, smoothest animation and cleverly written dialogue of any Disney movie I've seen. And I was convinced of that in the first 15 minutes. I especially love Don Novello's voice work on Vincenzo Santorini and Phil Morris as Joshua Strongbear Sweet. Too bad the whole film seems to move at about double the pace that would be appropriate - at least in the fir",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.99,
+      "length": 658,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4648,
+      "model": "DistilBERT",
+      "review": "Yes, I know that this movie is meant as a comedy! And the humor is over the top! But the theme about people getting less intelligent in future time might not be so far fetched! I cannot say that it will happen,but if we don't take proper care of our educational system than this could be a possibility! I have noticed that some schools aren't teaching facts anymore! (Like history,geography,basic stu",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9899,
+      "length": 1381,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2440,
+      "model": "DistilBERT",
+      "review": "Ayone who whines about how this movie was crap or that it had no plot must have been looking for \"Jean de Florrette\". HELLO! this film was made to be a random act of comedy and in no way involves a plot in any way shape or form. I would also like to remind these whiners that if you are going to flay the crap out of this film that they seem to be missing the point. This film is clearly made for peo",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9898,
+      "length": 700,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 3361,
+      "model": "DistilBERT",
+      "review": "OK I saw this movie to get a benchmark for bad but with this movie it's Unisol's best movie now plot Luc Devereux is now a technical expert who is working with the government with his partner Maggie, who's been through countless hours of training and combat with him, to refine and perfect the UniSol program in an effort to make a new, stronger breed of soldier that is more sophisticated, intellige",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9897,
+      "length": 2712,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3614,
+      "model": "DistilBERT",
+      "review": "Of course, he did have to INVENT EVERYTHING about cinematography, film directing, etc. before he could make classics like \"The Gardner,\" so I suppose he may be forgiven this initial excursion into mere sociological documentary. Today we call them \"home movies,\" and they are just as boring now as this one is",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9897,
+      "length": 308,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2946,
+      "model": "DistilBERT",
+      "review": "This is a lot of silliness about a woman from London who marries a tea planter from Ceylon whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty. She looks stunning.",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9893,
+      "length": 302,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4398,
+      "model": "DistilBERT",
+      "review": "The problem is that the movie rode in on the coattails of the 60's-created concept that comic books could only be done as \"camp\" (i.e., the 60's Batman show) for TV and movie. Thus you have combat sequences with subtitles (come on!), a cluelessly unromantic Doc Savage (he was uncomfortable around women in the pulps, not an idiot), Monk Mayfair in a nightsheet (a scene guaranteed to give you nightm",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9891,
+      "length": 2081,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 1987,
+      "model": "DistilBERT",
+      "review": "I agree that this film is too pretentious, and it is not easy to know where it is going. I have been teaching literature and film for many years, and I find this film to be one of the most over rated, according to some of the previous reviews here. <br /><br />However, let me remind you that this is the same director who has L'ora di religione (Il sorriso di mia madre- My Mother's Smile) to his cr",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9888,
+      "length": 728,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 3201,
+      "model": "DistilBERT",
+      "review": "The production quality, cast, premise, authentic New England (Waterbury, CT?) locale and lush John Williams score should have resulted in a 3-4 star collectors item. Unfortunately, all we got was a passable 2 star \"decent\" flick, mostly memorable for what it tried to do.........bring an art house style film mainstream. The small town locale and story of ordinary people is a genre to itself, and if",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.9886,
+      "length": 1179,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 2568,
+      "model": "DistilBERT",
+      "review": "I would like to submit the following goof.<br /><br />During the bridge scene, soldiers are seen wading out in the river, asking to be taken away and seeking to escape. Some of the soldiers approach Captain Willard's boat and attempt to board carrying with them suitcases. Soldiers are not issued nor do they ever carry suitcases into a combat zone. They have duffel bags, packs and footlockers but n",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.988,
+      "length": 660,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 4928,
+      "model": "DistilBERT",
+      "review": "I am quite the Mitchell Leisen fan so it was a great anticipation that I rented this movie but the print I got was extremely bad, so worn down from use and scorched seemingly beyond repair, the movie was so dark. So dark that in certain scenes that are cinematographed in the dark, you can't see a single thing. That said, I believe I share the same opinion as the first review of this movie. It star",
+      "true_label": "positive",
+      "pred_label": "negative",
+      "confidence": 0.988,
+      "length": 2132,
+      "error_type": "False Negative"
+    },
+    {
+      "id": 956,
+      "model": "DistilBERT",
+      "review": "\"Dolemite\" is the touching story of Dolemite (Gotta love blaxploitation film titles), an ex-con who probably should still be in jail. He gets in trouble with cops, friends, drug dealers, women, prostitutes, and society in general. He's just not that likable a guy. Neither is the movie, though it's still hilarious and worth watching.<br /><br />The flimsy premise is that Dolemite (played with as mu",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9875,
+      "length": 2290,
+      "error_type": "False Positive"
+    },
+    {
+      "id": 2326,
+      "model": "DistilBERT",
+      "review": "As an avid Disney fan, I was not totally impressed by this movie, certainly not motivated enough to catch it in the theaters. I am, however, so glad that I caught it on DVD and watched the special features.<br /><br />You MUST check out the \"Moose commentary\": the entire movie can be viewed with commentary from Rutt and Tuke, the comic relief moose of the story, who are voiced by Rick Moranis and ",
+      "true_label": "negative",
+      "pred_label": "positive",
+      "confidence": 0.9869,
+      "length": 730,
+      "error_type": "False Positive"
+    }
+  ]
+}

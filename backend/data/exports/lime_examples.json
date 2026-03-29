@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 0,
+    "model": "Naive Bayes",
+    "text": "\"The Violent Men\" marked the finest collaboration of Rudolph Mat\u00e9 with Glenn Ford in an intensely satisfying drama of rugged primitive justice\u0085 <br /><br />Ford is John Parrish, a former Cavalry captain who is itching to get married and start a new life\u0085 His fianc\u00e9e Caroline Vail (May Wynn) is desperate to move east, and to see him selling his spread to Lee Wilkison (Edward G. Robinson).<br /><br />Parrish is not even much of a cattleman\u0085 but he do understand that there is something big building",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9874,
+    "words": [
+      {
+        "word": "Parrish",
+        "weight": 0.0647
+      },
+      {
+        "word": "Keith",
+        "weight": 0.0207
+      },
+      {
+        "word": "Glenn",
+        "weight": 0.02
+      },
+      {
+        "word": "Brian",
+        "weight": 0.0171
+      },
+      {
+        "word": "Stanwyck",
+        "weight": 0.0165
+      },
+      {
+        "word": "whole",
+        "weight": 0.0084
+      },
+      {
+        "word": "saw",
+        "weight": 0.0068
+      },
+      {
+        "word": "owns",
+        "weight": 0.0056
+      },
+      {
+        "word": "get",
+        "weight": 0.0045
+      },
+      {
+        "word": "will",
+        "weight": 0.0036
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "model": "Naive Bayes",
+    "text": "I\u00b4m from Germany and I love the mvovies. I go 200 times a year. Tonight I saw \"Pecker\", it was a wonderful evening. Thank you, Mr. Waters. Everybody who has a chance to see the movie, go!!!",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.95,
+    "words": [
+      {
+        "word": "Pecker",
+        "weight": 0.105
+      },
+      {
+        "word": "wonderful",
+        "weight": 0.0403
+      },
+      {
+        "word": "year",
+        "weight": 0.0291
+      },
+      {
+        "word": "chance",
+        "weight": 0.0251
+      },
+      {
+        "word": "times",
+        "weight": 0.0225
+      },
+      {
+        "word": "Germany",
+        "weight": 0.0213
+      },
+      {
+        "word": "see",
+        "weight": 0.0205
+      },
+      {
+        "word": "love",
+        "weight": 0.0156
+      },
+      {
+        "word": "Tonight",
+        "weight": -0.0151
+      },
+      {
+        "word": "Waters",
+        "weight": -0.0121
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "model": "Naive Bayes",
+    "text": "All Dogs Go to Heaven is, in my opinion, the best animated film ever made. I'm not really a big fan of animated films, but there's something about this one that makes it better than any other animated film I've seen. The music is wonderful as is the performances of Burt Reynolds, Dom Deluise, and especially Ken Page as the King Gator. \"Let's Make Music Together\" is perhaps one of my favorite songs from any movie musical I've seen. This is definitely a must see for people of all ages.",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9591,
+    "words": [
+      {
+        "word": "animated",
+        "weight": 0.0666
+      },
+      {
+        "word": "favorite",
+        "weight": 0.0575
+      },
+      {
+        "word": "best",
+        "weight": 0.0525
+      },
+      {
+        "word": "wonderful",
+        "weight": 0.0451
+      },
+      {
+        "word": "performances",
+        "weight": 0.0375
+      },
+      {
+        "word": "one",
+        "weight": 0.0311
+      },
+      {
+        "word": "film",
+        "weight": 0.0243
+      },
+      {
+        "word": "better",
+        "weight": -0.0171
+      },
+      {
+        "word": "Let",
+        "weight": -0.0156
+      },
+      {
+        "word": "Make",
+        "weight": -0.0117
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "model": "Naive Bayes",
+    "text": "I like this movie above all others. It is \"multi-layered\"; there is so much to see and appreciate. Every viewing brings a new appreciation of the story-line, the plot and the characters. Faultlessly acted and extremely enjoyable if you take the time to watch it and appreciate it. I love the interaction between the players; the subtle relationships; the period atmosphere. Ralph Fiennes is perfectly cast as the brooding lover and Geoffrey the wronged husband is beautifully underplayed by Colin Fir",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9594,
+    "words": [
+      {
+        "word": "perfectly",
+        "weight": 0.0415
+      },
+      {
+        "word": "enchanting",
+        "weight": 0.0357
+      },
+      {
+        "word": "beautifully",
+        "weight": 0.0318
+      },
+      {
+        "word": "cast",
+        "weight": 0.0236
+      },
+      {
+        "word": "Hanna",
+        "weight": 0.0235
+      },
+      {
+        "word": "layered",
+        "weight": 0.022
+      },
+      {
+        "word": "sand",
+        "weight": -0.0193
+      },
+      {
+        "word": "Firth",
+        "weight": -0.012
+      },
+      {
+        "word": "another",
+        "weight": -0.0119
+      },
+      {
+        "word": "appreciation",
+        "weight": 0.0118
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "model": "Naive Bayes",
+    "text": "Snuggle down in your favourite chair and switch on the play-station, as you toss this into the waste disposal unit. Spend a useful 90 min. living your favourite game. Disjointed - poorly filmed - non directed junk. It takes a bits from several other \"science fiction\" movies and badly attempts to join the parts into a pathetically weak story. There's nothing new here, the filmmakers do not seem to realise that providing simple entertainment would achieve a monetary game, but a touch of skill inge",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9725,
+    "words": [
+      {
+        "word": "waste",
+        "weight": -0.0599
+      },
+      {
+        "word": "spent",
+        "weight": -0.0447
+      },
+      {
+        "word": "favourite",
+        "weight": 0.0414
+      },
+      {
+        "word": "badly",
+        "weight": -0.0387
+      },
+      {
+        "word": "pathetically",
+        "weight": -0.0325
+      },
+      {
+        "word": "poorly",
+        "weight": -0.0319
+      },
+      {
+        "word": "nothing",
+        "weight": -0.0313
+      },
+      {
+        "word": "min",
+        "weight": -0.0307
+      },
+      {
+        "word": "weak",
+        "weight": -0.0255
+      },
+      {
+        "word": "movies",
+        "weight": -0.0251
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "model": "Naive Bayes",
+    "text": "Oh my. How can they make movies of such beauty, but that are so terribly bad. I mean, even Uwe Boll doesn't make crap like this. There is not even a hint of a decent story, multi-layered characters, or attraction. It's just a random sequence of pointless chatter joined together to make a 'movie'. I suppose only children up to 3 years of age could enjoy it, given the world is so utterly dimensionless and the story so incoherent, that anyone older would be annoyed by it. But then again, it's far t",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9886,
+    "words": [
+      {
+        "word": "Boll",
+        "weight": -0.0571
+      },
+      {
+        "word": "Uwe",
+        "weight": -0.0486
+      },
+      {
+        "word": "crap",
+        "weight": -0.0376
+      },
+      {
+        "word": "incoherent",
+        "weight": -0.0346
+      },
+      {
+        "word": "far",
+        "weight": -0.0324
+      },
+      {
+        "word": "bad",
+        "weight": -0.0299
+      },
+      {
+        "word": "layered",
+        "weight": 0.0241
+      },
+      {
+        "word": "pointless",
+        "weight": -0.0207
+      },
+      {
+        "word": "chatter",
+        "weight": 0.0084
+      },
+      {
+        "word": "give",
+        "weight": 0.0056
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "model": "Naive Bayes",
+    "text": "I love Umberto Lenzi's cop movies -- ROME ARMED TO THE TEETH is my favorite -- and his DESERT COMMANDOS pretty much legitimized the Italian Euro War phenomenon by managing to actually be a pretty good movie. Give him guns, machines, some guys to run around talking tough and it's hard for him to miss.<br /><br />What a shame it is then to encounter his EATEN ALIVE and CANNIBAL FEROX. They could have been by anybody, really, and one watches them with a sense that he was under contract, was told wh",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9225,
+    "words": [
+      {
+        "word": "CANNIBAL",
+        "weight": -0.0874
+      },
+      {
+        "word": "cannibal",
+        "weight": -0.039
+      },
+      {
+        "word": "cannibals",
+        "weight": -0.0309
+      },
+      {
+        "word": "TEETH",
+        "weight": -0.0225
+      },
+      {
+        "word": "else",
+        "weight": -0.0189
+      },
+      {
+        "word": "are",
+        "weight": -0.0172
+      },
+      {
+        "word": "making",
+        "weight": -0.0124
+      },
+      {
+        "word": "TREK",
+        "weight": 0.0105
+      },
+      {
+        "word": "legitimized",
+        "weight": -0.0086
+      },
+      {
+        "word": "Glu",
+        "weight": -0.0046
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "model": "Naive Bayes",
+    "text": "Another try, another miss. France may be doomed for not being able to produce a good horror movie. I mean... the least they could do was to shoot the movie in the forest of Broc\u00e9liande, but even the forest is fake ! It was shot near Paris ! The subject is useless, the actors are really insignificant and the text makes you wish you were deaf. Nothing could save it.<br /><br />Bad... to the bone. I wasn't warned. I want my money back.",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9643,
+    "words": [
+      {
+        "word": "money",
+        "weight": -0.0722
+      },
+      {
+        "word": "could",
+        "weight": -0.0563
+      },
+      {
+        "word": "save",
+        "weight": -0.0419
+      },
+      {
+        "word": "useless",
+        "weight": -0.0394
+      },
+      {
+        "word": "back",
+        "weight": -0.0276
+      },
+      {
+        "word": "fake",
+        "weight": -0.0255
+      },
+      {
+        "word": "Nothing",
+        "weight": -0.0218
+      },
+      {
+        "word": "Paris",
+        "weight": 0.0186
+      },
+      {
+        "word": "warned",
+        "weight": -0.0175
+      },
+      {
+        "word": "France",
+        "weight": 0.0154
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "model": "Naive Bayes",
+    "text": "Back (again) in Scotland, Lassie is (again) on trial for her life. Because the faithful dog sleeps on her master's grave, she must be put to death, according to law. Oddly, it is also explained that Lassie had no \"legal\" owner, which is, apparently, also against an old Scottish law. If, after three days, no owner is located, dogs must be destroyed. Edmund Gwenn (as John Traill) pleads Lassie's case, which leads to an extended flashback, showing Lassie's adoption by Donald Crisp (as John \"Jock\" G",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "correct": false,
+    "confidence": 0.6095,
+    "words": [
+      {
+        "word": "Lassie",
+        "weight": -0.1768
+      },
+      {
+        "word": "Geraldine",
+        "weight": 0.0736
+      },
+      {
+        "word": "unexciting",
+        "weight": -0.0656
+      },
+      {
+        "word": "Jimmy",
+        "weight": 0.0475
+      },
+      {
+        "word": "Wonderful",
+        "weight": 0.0408
+      },
+      {
+        "word": "owner",
+        "weight": 0.0343
+      },
+      {
+        "word": "Parker",
+        "weight": 0.0306
+      },
+      {
+        "word": "Crisp",
+        "weight": 0.0295
+      },
+      {
+        "word": "sloppy",
+        "weight": -0.0213
+      },
+      {
+        "word": "disappointing",
+        "weight": -0.0152
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "model": "Naive Bayes",
+    "text": "I cannot understand why this 1971 Hollywood production is currently only available through an Australian video company,but such is the unfortunate obscurity of this Peter Sellers classic(Leonard Maltin's Movie Guide continues to grant it the same BOMB review they gave it in the 1970's).With so many scene stealers on display,Sellers comes through with what may perhaps be his most hilarious role.It all begins with his discovery of a patient who expired at 11:15AM,but Sellers argues that the corpse",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.5426,
+    "words": [
+      {
+        "word": "Monkees",
+        "weight": 0.1065
+      },
+      {
+        "word": "save",
+        "weight": -0.0831
+      },
+      {
+        "word": "surgeon",
+        "weight": -0.0737
+      },
+      {
+        "word": "inept",
+        "weight": -0.0649
+      },
+      {
+        "word": "t",
+        "weight": -0.062
+      },
+      {
+        "word": "stealers",
+        "weight": 0.0477
+      },
+      {
+        "word": "topless",
+        "weight": -0.0441
+      },
+      {
+        "word": "excellent",
+        "weight": 0.0245
+      },
+      {
+        "word": "patient",
+        "weight": 0.0223
+      },
+      {
+        "word": "Guide",
+        "weight": 0.021
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "model": "Naive Bayes",
+    "text": "Everyone knows about this ''Zero Day'' event. What I think this movie did that Elephant did not is that they made us see how these guys were. They showed their life for about a year. Throughout the movie we get to like them, to laugh with them even though we totally know what they're gonna do. And THAT gives me the chills. Cause I felt guilty to be cheered by their comments, and I just thought Cal was a sweet guy. Even though I KNEW what was gonna happen you know? Even at the end of the movie wh",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.6602,
+    "words": [
+      {
+        "word": "Day",
+        "weight": 0.098
+      },
+      {
+        "word": "bad",
+        "weight": -0.0914
+      },
+      {
+        "word": "Even",
+        "weight": -0.0597
+      },
+      {
+        "word": "Zero",
+        "weight": 0.0541
+      },
+      {
+        "word": "guys",
+        "weight": -0.0486
+      },
+      {
+        "word": "horrified",
+        "weight": -0.0455
+      },
+      {
+        "word": "even",
+        "weight": -0.0449
+      },
+      {
+        "word": "movie",
+        "weight": -0.0448
+      },
+      {
+        "word": "Cal",
+        "weight": 0.041
+      },
+      {
+        "word": "notice",
+        "weight": 0.0288
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "model": "Naive Bayes",
+    "text": "This was an excellent film. I don't understand why so many people don't like it. There was so much in it to connect with, so many beautiful images, and so much compassion in the things that weren't said. I was thoroughly entertained, and was left with a feeling of joyous exuberance, just as I am when I finish most any Tom Robbins story. Now I haven't read this particular book of Robbin's, so I don't now how this matched up, but I can't imagine this movie could have been a very bad interpretation",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.6796,
+    "words": [
+      {
+        "word": "worst",
+        "weight": -0.3416
+      },
+      {
+        "word": "movie",
+        "weight": -0.123
+      },
+      {
+        "word": "excellent",
+        "weight": 0.0902
+      },
+      {
+        "word": "joyous",
+        "weight": 0.0776
+      },
+      {
+        "word": "Far",
+        "weight": -0.0709
+      },
+      {
+        "word": "ever",
+        "weight": -0.0699
+      },
+      {
+        "word": "film",
+        "weight": 0.0589
+      },
+      {
+        "word": "glorious",
+        "weight": 0.0441
+      },
+      {
+        "word": "compassion",
+        "weight": 0.0423
+      },
+      {
+        "word": "bad",
+        "weight": -0.0307
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "model": "Logistic Regression",
+    "text": "\"The Violent Men\" marked the finest collaboration of Rudolph Mat\u00e9 with Glenn Ford in an intensely satisfying drama of rugged primitive justice\u0085 <br /><br />Ford is John Parrish, a former Cavalry captain who is itching to get married and start a new life\u0085 His fianc\u00e9e Caroline Vail (May Wynn) is desperate to move east, and to see him selling his spread to Lee Wilkison (Edward G. Robinson).<br /><br />Parrish is not even much of a cattleman\u0085 but he do understand that there is something big building",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9874,
+    "words": [
+      {
+        "word": "perfect",
+        "weight": 0.0581
+      },
+      {
+        "word": "disappointment",
+        "weight": -0.0453
+      },
+      {
+        "word": "easily",
+        "weight": 0.0416
+      },
+      {
+        "word": "Brian",
+        "weight": 0.0412
+      },
+      {
+        "word": "help",
+        "weight": 0.0385
+      },
+      {
+        "word": "make",
+        "weight": 0.0375
+      },
+      {
+        "word": "finest",
+        "weight": 0.0338
+      },
+      {
+        "word": "Lee",
+        "weight": -0.0184
+      },
+      {
+        "word": "shoot",
+        "weight": 0.0151
+      },
+      {
+        "word": "trying",
+        "weight": -0.0129
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "model": "Logistic Regression",
+    "text": "I\u00b4m from Germany and I love the mvovies. I go 200 times a year. Tonight I saw \"Pecker\", it was a wonderful evening. Thank you, Mr. Waters. Everybody who has a chance to see the movie, go!!!",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.95,
+    "words": [
+      {
+        "word": "wonderful",
+        "weight": 0.0506
+      },
+      {
+        "word": "love",
+        "weight": 0.0279
+      },
+      {
+        "word": "see",
+        "weight": 0.0267
+      },
+      {
+        "word": "Thank",
+        "weight": 0.0176
+      },
+      {
+        "word": "chance",
+        "weight": 0.0166
+      },
+      {
+        "word": "Tonight",
+        "weight": -0.0147
+      },
+      {
+        "word": "year",
+        "weight": 0.0114
+      },
+      {
+        "word": "Germany",
+        "weight": 0.0113
+      },
+      {
+        "word": "times",
+        "weight": 0.0112
+      },
+      {
+        "word": "Mr",
+        "weight": -0.0059
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "model": "Logistic Regression",
+    "text": "All Dogs Go to Heaven is, in my opinion, the best animated film ever made. I'm not really a big fan of animated films, but there's something about this one that makes it better than any other animated film I've seen. The music is wonderful as is the performances of Burt Reynolds, Dom Deluise, and especially Ken Page as the King Gator. \"Let's Make Music Together\" is perhaps one of my favorite songs from any movie musical I've seen. This is definitely a must see for people of all ages.",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9591,
+    "words": [
+      {
+        "word": "wonderful",
+        "weight": 0.0301
+      },
+      {
+        "word": "favorite",
+        "weight": 0.0294
+      },
+      {
+        "word": "see",
+        "weight": 0.0225
+      },
+      {
+        "word": "definitely",
+        "weight": 0.0195
+      },
+      {
+        "word": "best",
+        "weight": 0.0192
+      },
+      {
+        "word": "big",
+        "weight": -0.0172
+      },
+      {
+        "word": "especially",
+        "weight": 0.0168
+      },
+      {
+        "word": "performances",
+        "weight": 0.0122
+      },
+      {
+        "word": "Deluise",
+        "weight": -0.0103
+      },
+      {
+        "word": "seen",
+        "weight": 0.0093
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "model": "Logistic Regression",
+    "text": "I like this movie above all others. It is \"multi-layered\"; there is so much to see and appreciate. Every viewing brings a new appreciation of the story-line, the plot and the characters. Faultlessly acted and extremely enjoyable if you take the time to watch it and appreciate it. I love the interaction between the players; the subtle relationships; the period atmosphere. Ralph Fiennes is perfectly cast as the brooding lover and Geoffrey the wronged husband is beautifully underplayed by Colin Fir",
+    "true_label": "positive",
+    "pred_label": "positive",
+    "correct": true,
+    "confidence": 0.9594,
+    "words": [
+      {
+        "word": "enjoyable",
+        "weight": 0.0249
+      },
+      {
+        "word": "appreciate",
+        "weight": 0.0242
+      },
+      {
+        "word": "perfectly",
+        "weight": 0.0226
+      },
+      {
+        "word": "subtle",
+        "weight": 0.0194
+      },
+      {
+        "word": "beautifully",
+        "weight": 0.0171
+      },
+      {
+        "word": "atmosphere",
+        "weight": 0.0164
+      },
+      {
+        "word": "sand",
+        "weight": -0.0156
+      },
+      {
+        "word": "different",
+        "weight": 0.0127
+      },
+      {
+        "word": "layer",
+        "weight": 0.0111
+      },
+      {
+        "word": "relationship",
+        "weight": 0.0104
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "model": "Logistic Regression",
+    "text": "Snuggle down in your favourite chair and switch on the play-station, as you toss this into the waste disposal unit. Spend a useful 90 min. living your favourite game. Disjointed - poorly filmed - non directed junk. It takes a bits from several other \"science fiction\" movies and badly attempts to join the parts into a pathetically weak story. There's nothing new here, the filmmakers do not seem to realise that providing simple entertainment would achieve a monetary game, but a touch of skill inge",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9725,
+    "words": [
+      {
+        "word": "waste",
+        "weight": -0.1066
+      },
+      {
+        "word": "poorly",
+        "weight": -0.0535
+      },
+      {
+        "word": "weak",
+        "weight": -0.0351
+      },
+      {
+        "word": "nothing",
+        "weight": -0.0317
+      },
+      {
+        "word": "several",
+        "weight": 0.025
+      },
+      {
+        "word": "good",
+        "weight": 0.025
+      },
+      {
+        "word": "badly",
+        "weight": -0.0194
+      },
+      {
+        "word": "simple",
+        "weight": 0.0174
+      },
+      {
+        "word": "junk",
+        "weight": -0.0126
+      },
+      {
+        "word": "touch",
+        "weight": 0.0125
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "model": "Logistic Regression",
+    "text": "Oh my. How can they make movies of such beauty, but that are so terribly bad. I mean, even Uwe Boll doesn't make crap like this. There is not even a hint of a decent story, multi-layered characters, or attraction. It's just a random sequence of pointless chatter joined together to make a 'movie'. I suppose only children up to 3 years of age could enjoy it, given the world is so utterly dimensionless and the story so incoherent, that anyone older would be annoyed by it. But then again, it's far t",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9886,
+    "words": [
+      {
+        "word": "bad",
+        "weight": -0.0344
+      },
+      {
+        "word": "awful",
+        "weight": -0.0332
+      },
+      {
+        "word": "Boll",
+        "weight": -0.0199
+      },
+      {
+        "word": "crap",
+        "weight": -0.0197
+      },
+      {
+        "word": "suppose",
+        "weight": -0.0197
+      },
+      {
+        "word": "far",
+        "weight": -0.0185
+      },
+      {
+        "word": "watch",
+        "weight": 0.0118
+      },
+      {
+        "word": "2",
+        "weight": -0.0094
+      },
+      {
+        "word": "enjoy",
+        "weight": 0.0079
+      },
+      {
+        "word": "beauty",
+        "weight": 0.0063
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "model": "Logistic Regression",
+    "text": "I love Umberto Lenzi's cop movies -- ROME ARMED TO THE TEETH is my favorite -- and his DESERT COMMANDOS pretty much legitimized the Italian Euro War phenomenon by managing to actually be a pretty good movie. Give him guns, machines, some guys to run around talking tough and it's hard for him to miss.<br /><br />What a shame it is then to encounter his EATEN ALIVE and CANNIBAL FEROX. They could have been by anybody, really, and one watches them with a sense that he was under contract, was told wh",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9225,
+    "words": [
+      {
+        "word": "wooden",
+        "weight": -0.031
+      },
+      {
+        "word": "attempt",
+        "weight": -0.0245
+      },
+      {
+        "word": "bad",
+        "weight": -0.0244
+      },
+      {
+        "word": "lacks",
+        "weight": -0.0227
+      },
+      {
+        "word": "reason",
+        "weight": -0.0201
+      },
+      {
+        "word": "watches",
+        "weight": 0.0196
+      },
+      {
+        "word": "someone",
+        "weight": -0.0178
+      },
+      {
+        "word": "mash",
+        "weight": -0.0146
+      },
+      {
+        "word": "CANNIBAL",
+        "weight": -0.0141
+      },
+      {
+        "word": "either",
+        "weight": -0.0137
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "model": "Logistic Regression",
+    "text": "Another try, another miss. France may be doomed for not being able to produce a good horror movie. I mean... the least they could do was to shoot the movie in the forest of Broc\u00e9liande, but even the forest is fake ! It was shot near Paris ! The subject is useless, the actors are really insignificant and the text makes you wish you were deaf. Nothing could save it.<br /><br />Bad... to the bone. I wasn't warned. I want my money back.",
+    "true_label": "negative",
+    "pred_label": "negative",
+    "correct": true,
+    "confidence": 0.9643,
+    "words": [
+      {
+        "word": "save",
+        "weight": -0.0535
+      },
+      {
+        "word": "Nothing",
+        "weight": -0.0505
+      },
+      {
+        "word": "money",
+        "weight": -0.0332
+      },
+      {
+        "word": "Bad",
+        "weight": -0.025
+      },
+      {
+        "word": "useless",
+        "weight": -0.0238
+      },
+      {
+        "word": "really",
+        "weight": 0.0226
+      },
+      {
+        "word": "makes",
+        "weight": 0.0216
+      },
+      {
+        "word": "could",
+        "weight": -0.021
+      },
+      {
+        "word": "able",
+        "weight": 0.0203
+      },
+      {
+        "word": "shoot",
+        "weight": -0.0147
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "model": "Logistic Regression",
+    "text": "Back (again) in Scotland, Lassie is (again) on trial for her life. Because the faithful dog sleeps on her master's grave, she must be put to death, according to law. Oddly, it is also explained that Lassie had no \"legal\" owner, which is, apparently, also against an old Scottish law. If, after three days, no owner is located, dogs must be destroyed. Edmund Gwenn (as John Traill) pleads Lassie's case, which leads to an extended flashback, showing Lassie's adoption by Donald Crisp (as John \"Jock\" G",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "correct": false,
+    "confidence": 0.6095,
+    "words": [
+      {
+        "word": "disappointing",
+        "weight": -0.1982
+      },
+      {
+        "word": "Wonderful",
+        "weight": 0.1256
+      },
+      {
+        "word": "several",
+        "weight": 0.1205
+      },
+      {
+        "word": "sleeps",
+        "weight": -0.083
+      },
+      {
+        "word": "apparently",
+        "weight": -0.0674
+      },
+      {
+        "word": "also",
+        "weight": 0.0648
+      },
+      {
+        "word": "grow",
+        "weight": 0.0586
+      },
+      {
+        "word": "law",
+        "weight": 0.0484
+      },
+      {
+        "word": "later",
+        "weight": 0.0436
+      },
+      {
+        "word": "interesting",
+        "weight": -0.0361
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "model": "Logistic Regression",
+    "text": "I cannot understand why this 1971 Hollywood production is currently only available through an Australian video company,but such is the unfortunate obscurity of this Peter Sellers classic(Leonard Maltin's Movie Guide continues to grant it the same BOMB review they gave it in the 1970's).With so many scene stealers on display,Sellers comes through with what may perhaps be his most hilarious role.It all begins with his discovery of a patient who expired at 11:15AM,but Sellers argues that the corpse",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.5426,
+    "words": [
+      {
+        "word": "excellent",
+        "weight": 0.1718
+      },
+      {
+        "word": "save",
+        "weight": -0.125
+      },
+      {
+        "word": "hilarious",
+        "weight": 0.1118
+      },
+      {
+        "word": "patient",
+        "weight": 0.0768
+      },
+      {
+        "word": "missing",
+        "weight": -0.0747
+      },
+      {
+        "word": "still",
+        "weight": 0.0714
+      },
+      {
+        "word": "Monkees",
+        "weight": 0.0691
+      },
+      {
+        "word": "Sellers",
+        "weight": -0.0604
+      },
+      {
+        "word": "Harold",
+        "weight": -0.0541
+      },
+      {
+        "word": "Leonard",
+        "weight": -0.0539
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "model": "Logistic Regression",
+    "text": "Everyone knows about this ''Zero Day'' event. What I think this movie did that Elephant did not is that they made us see how these guys were. They showed their life for about a year. Throughout the movie we get to like them, to laugh with them even though we totally know what they're gonna do. And THAT gives me the chills. Cause I felt guilty to be cheered by their comments, and I just thought Cal was a sweet guy. Even though I KNEW what was gonna happen you know? Even at the end of the movie wh",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.6602,
+    "words": [
+      {
+        "word": "notice",
+        "weight": 0.0552
+      },
+      {
+        "word": "good",
+        "weight": 0.0478
+      },
+      {
+        "word": "still",
+        "weight": 0.0467
+      },
+      {
+        "word": "event",
+        "weight": 0.0422
+      },
+      {
+        "word": "sweet",
+        "weight": 0.0381
+      },
+      {
+        "word": "though",
+        "weight": 0.0367
+      },
+      {
+        "word": "bad",
+        "weight": -0.0319
+      },
+      {
+        "word": "t",
+        "weight": -0.017
+      },
+      {
+        "word": "movie",
+        "weight": -0.0156
+      },
+      {
+        "word": "maybe",
+        "weight": -0.0138
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "model": "Logistic Regression",
+    "text": "This was an excellent film. I don't understand why so many people don't like it. There was so much in it to connect with, so many beautiful images, and so much compassion in the things that weren't said. I was thoroughly entertained, and was left with a feeling of joyous exuberance, just as I am when I finish most any Tom Robbins story. Now I haven't read this particular book of Robbin's, so I don't now how this matched up, but I can't imagine this movie could have been a very bad interpretation",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "correct": false,
+    "confidence": 0.6796,
+    "words": [
+      {
+        "word": "worst",
+        "weight": -0.4591
+      },
+      {
+        "word": "excellent",
+        "weight": 0.1396
+      },
+      {
+        "word": "left",
+        "weight": -0.105
+      },
+      {
+        "word": "bad",
+        "weight": -0.0864
+      },
+      {
+        "word": "movie",
+        "weight": -0.0814
+      },
+      {
+        "word": "Far",
+        "weight": -0.0555
+      },
+      {
+        "word": "like",
+        "weight": 0.0525
+      },
+      {
+        "word": "lot",
+        "weight": 0.052
+      },
+      {
+        "word": "interpretation",
+        "weight": 0.0361
+      },
+      {
+        "word": "light",
+        "weight": 0.0348
+      }
+    ]
+  }
+]

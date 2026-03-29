@@ -1,0 +1,22 @@
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.2
+
+# ML Core (Python 3.12 compatible — use >= not ==)
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.1.4
+scipy>=1.12.0
+
+# NLP
+nltk>=3.8.1
+lime>=0.2.0.1
+
+# Deep Learning (optional — uncomment if needed)
+tensorflow>=2.16.0
+tf-keras>=2.16.0
+transformers==4.38.0
+# datasets>=2.18.0
+
+# Utilities
+python-dotenv>=1.0.0

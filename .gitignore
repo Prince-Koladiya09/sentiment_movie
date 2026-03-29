@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+*.egg-info/
+
+# Trained model files (too large for GitHub)
+backend/models/saved/*.pkl
+backend/models/saved/*.h5
+backend/models/saved/*.keras
+backend/models/saved/distilbert/
+
+# Keep the JSON exports (needed for deployment)
+!backend/data/exports/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+backend/.env
+backend/.env.production
+frontend/.env
+frontend/.env.production    
